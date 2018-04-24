@@ -1,0 +1,1607 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont sfntVersion="OTTO" ttLibVersion="3.0">
+
+  <cmap>
+    <tableVersion version="0"/>
+    <cmap_format_4 platformID="0" platEncID="3" language="0">
+      <map code="0x0" name="cid00001"/><!-- ???? -->
+      <map code="0x1" name="cid00001"/><!-- ???? -->
+      <map code="0x2" name="cid00001"/><!-- ???? -->
+      <map code="0x3" name="cid00001"/><!-- ???? -->
+      <map code="0x4" name="cid00001"/><!-- ???? -->
+      <map code="0x5" name="cid00001"/><!-- ???? -->
+      <map code="0x6" name="cid00001"/><!-- ???? -->
+      <map code="0x7" name="cid00001"/><!-- ???? -->
+      <map code="0x8" name="cid00001"/><!-- ???? -->
+      <map code="0x9" name="cid00001"/><!-- ???? -->
+      <map code="0xa" name="cid00001"/><!-- ???? -->
+      <map code="0xb" name="cid00001"/><!-- ???? -->
+      <map code="0xc" name="cid00001"/><!-- ???? -->
+      <map code="0xd" name="cid00001"/><!-- ???? -->
+      <map code="0xe" name="cid00001"/><!-- ???? -->
+      <map code="0xf" name="cid00001"/><!-- ???? -->
+      <map code="0x10" name="cid00001"/><!-- ???? -->
+      <map code="0x11" name="cid00001"/><!-- ???? -->
+      <map code="0x12" name="cid00001"/><!-- ???? -->
+      <map code="0x13" name="cid00001"/><!-- ???? -->
+      <map code="0x14" name="cid00001"/><!-- ???? -->
+      <map code="0x15" name="cid00001"/><!-- ???? -->
+      <map code="0x16" name="cid00001"/><!-- ???? -->
+      <map code="0x17" name="cid00001"/><!-- ???? -->
+      <map code="0x18" name="cid00001"/><!-- ???? -->
+      <map code="0x19" name="cid00001"/><!-- ???? -->
+      <map code="0x1a" name="cid00001"/><!-- ???? -->
+      <map code="0x1b" name="cid00001"/><!-- ???? -->
+      <map code="0x1c" name="cid00001"/><!-- ???? -->
+      <map code="0x1d" name="cid00001"/><!-- ???? -->
+      <map code="0x1e" name="cid00001"/><!-- ???? -->
+      <map code="0x1f" name="cid00001"/><!-- ???? -->
+      <map code="0x20" name="cid00001"/><!-- SPACE -->
+      <map code="0x21" name="cid00002"/><!-- EXCLAMATION MARK -->
+      <map code="0x22" name="cid00003"/><!-- QUOTATION MARK -->
+      <map code="0x23" name="cid00004"/><!-- NUMBER SIGN -->
+      <map code="0x24" name="cid00005"/><!-- DOLLAR SIGN -->
+      <map code="0x25" name="cid00006"/><!-- PERCENT SIGN -->
+      <map code="0x26" name="cid00007"/><!-- AMPERSAND -->
+      <map code="0x27" name="cid00008"/><!-- APOSTROPHE -->
+      <map code="0x28" name="cid00009"/><!-- LEFT PARENTHESIS -->
+      <map code="0x29" name="cid00010"/><!-- RIGHT PARENTHESIS -->
+      <map code="0x2a" name="cid00011"/><!-- ASTERISK -->
+      <map code="0x2b" name="cid00012"/><!-- PLUS SIGN -->
+      <map code="0x2c" name="cid00013"/><!-- COMMA -->
+      <map code="0x2d" name="cid00014"/><!-- HYPHEN-MINUS -->
+      <map code="0x2e" name="cid00015"/><!-- FULL STOP -->
+      <map code="0x2f" name="cid00016"/><!-- SOLIDUS -->
+      <map code="0x30" name="cid00017"/><!-- DIGIT ZERO -->
+      <map code="0x31" name="cid00018"/><!-- DIGIT ONE -->
+      <map code="0x32" name="cid00019"/><!-- DIGIT TWO -->
+      <map code="0x33" name="cid00020"/><!-- DIGIT THREE -->
+      <map code="0x34" name="cid00021"/><!-- DIGIT FOUR -->
+      <map code="0x35" name="cid00022"/><!-- DIGIT FIVE -->
+      <map code="0x36" name="cid00023"/><!-- DIGIT SIX -->
+      <map code="0x37" name="cid00024"/><!-- DIGIT SEVEN -->
+      <map code="0x38" name="cid00025"/><!-- DIGIT EIGHT -->
+      <map code="0x39" name="cid00026"/><!-- DIGIT NINE -->
+      <map code="0x3a" name="cid00027"/><!-- COLON -->
+      <map code="0x3b" name="cid00028"/><!-- SEMICOLON -->
+      <map code="0x3c" name="cid00029"/><!-- LESS-THAN SIGN -->
+      <map code="0x3d" name="cid00030"/><!-- EQUALS SIGN -->
+      <map code="0x3e" name="cid00031"/><!-- GREATER-THAN SIGN -->
+      <map code="0x3f" name="cid00032"/><!-- QUESTION MARK -->
+      <map code="0x40" name="cid00033"/><!-- COMMERCIAL AT -->
+      <map code="0x41" name="cid00034"/><!-- LATIN CAPITAL LETTER A -->
+      <map code="0x42" name="cid00035"/><!-- LATIN CAPITAL LETTER B -->
+      <map code="0x43" name="cid00036"/><!-- LATIN CAPITAL LETTER C -->
+      <map code="0x44" name="cid00037"/><!-- LATIN CAPITAL LETTER D -->
+      <map code="0x45" name="cid00038"/><!-- LATIN CAPITAL LETTER E -->
+      <map code="0x46" name="cid00039"/><!-- LATIN CAPITAL LETTER F -->
+      <map code="0x47" name="cid00040"/><!-- LATIN CAPITAL LETTER G -->
+      <map code="0x48" name="cid00041"/><!-- LATIN CAPITAL LETTER H -->
+      <map code="0x49" name="cid00042"/><!-- LATIN CAPITAL LETTER I -->
+      <map code="0x4a" name="cid00043"/><!-- LATIN CAPITAL LETTER J -->
+      <map code="0x4b" name="cid00044"/><!-- LATIN CAPITAL LETTER K -->
+      <map code="0x4c" name="cid00045"/><!-- LATIN CAPITAL LETTER L -->
+      <map code="0x4d" name="cid00046"/><!-- LATIN CAPITAL LETTER M -->
+      <map code="0x4e" name="cid00047"/><!-- LATIN CAPITAL LETTER N -->
+      <map code="0x4f" name="cid00048"/><!-- LATIN CAPITAL LETTER O -->
+      <map code="0x50" name="cid00049"/><!-- LATIN CAPITAL LETTER P -->
+      <map code="0x51" name="cid00050"/><!-- LATIN CAPITAL LETTER Q -->
+      <map code="0x52" name="cid00051"/><!-- LATIN CAPITAL LETTER R -->
+      <map code="0x53" name="cid00052"/><!-- LATIN CAPITAL LETTER S -->
+      <map code="0x54" name="cid00053"/><!-- LATIN CAPITAL LETTER T -->
+      <map code="0x55" name="cid00054"/><!-- LATIN CAPITAL LETTER U -->
+      <map code="0x56" name="cid00055"/><!-- LATIN CAPITAL LETTER V -->
+      <map code="0x57" name="cid00056"/><!-- LATIN CAPITAL LETTER W -->
+      <map code="0x58" name="cid00057"/><!-- LATIN CAPITAL LETTER X -->
+      <map code="0x59" name="cid00058"/><!-- LATIN CAPITAL LETTER Y -->
+      <map code="0x5a" name="cid00059"/><!-- LATIN CAPITAL LETTER Z -->
+      <map code="0x5b" name="cid00060"/><!-- LEFT SQUARE BRACKET -->
+      <map code="0x5c" name="cid00061"/><!-- REVERSE SOLIDUS -->
+      <map code="0x5d" name="cid00062"/><!-- RIGHT SQUARE BRACKET -->
+      <map code="0x5e" name="cid00063"/><!-- CIRCUMFLEX ACCENT -->
+      <map code="0x5f" name="cid00064"/><!-- LOW LINE -->
+      <map code="0x60" name="cid00065"/><!-- GRAVE ACCENT -->
+      <map code="0x61" name="cid00066"/><!-- LATIN SMALL LETTER A -->
+      <map code="0x62" name="cid00067"/><!-- LATIN SMALL LETTER B -->
+      <map code="0x63" name="cid00068"/><!-- LATIN SMALL LETTER C -->
+      <map code="0x64" name="cid00069"/><!-- LATIN SMALL LETTER D -->
+      <map code="0x65" name="cid00070"/><!-- LATIN SMALL LETTER E -->
+      <map code="0x66" name="cid00071"/><!-- LATIN SMALL LETTER F -->
+      <map code="0x67" name="cid00072"/><!-- LATIN SMALL LETTER G -->
+      <map code="0x68" name="cid00073"/><!-- LATIN SMALL LETTER H -->
+      <map code="0x69" name="cid00074"/><!-- LATIN SMALL LETTER I -->
+      <map code="0x6a" name="cid00075"/><!-- LATIN SMALL LETTER J -->
+      <map code="0x6b" name="cid00076"/><!-- LATIN SMALL LETTER K -->
+      <map code="0x6c" name="cid00077"/><!-- LATIN SMALL LETTER L -->
+      <map code="0x6d" name="cid00078"/><!-- LATIN SMALL LETTER M -->
+      <map code="0x6e" name="cid00079"/><!-- LATIN SMALL LETTER N -->
+      <map code="0x6f" name="cid00080"/><!-- LATIN SMALL LETTER O -->
+      <map code="0x70" name="cid00081"/><!-- LATIN SMALL LETTER P -->
+      <map code="0x71" name="cid00082"/><!-- LATIN SMALL LETTER Q -->
+      <map code="0x72" name="cid00083"/><!-- LATIN SMALL LETTER R -->
+      <map code="0x73" name="cid00084"/><!-- LATIN SMALL LETTER S -->
+      <map code="0x74" name="cid00085"/><!-- LATIN SMALL LETTER T -->
+      <map code="0x75" name="cid00086"/><!-- LATIN SMALL LETTER U -->
+      <map code="0x76" name="cid00087"/><!-- LATIN SMALL LETTER V -->
+      <map code="0x77" name="cid00088"/><!-- LATIN SMALL LETTER W -->
+      <map code="0x78" name="cid00089"/><!-- LATIN SMALL LETTER X -->
+      <map code="0x79" name="cid00090"/><!-- LATIN SMALL LETTER Y -->
+      <map code="0x7a" name="cid00091"/><!-- LATIN SMALL LETTER Z -->
+      <map code="0x7b" name="cid00092"/><!-- LEFT CURLY BRACKET -->
+      <map code="0x7c" name="cid00093"/><!-- VERTICAL LINE -->
+      <map code="0x7d" name="cid00094"/><!-- RIGHT CURLY BRACKET -->
+      <map code="0x7e" name="cid00095"/><!-- TILDE -->
+      <map code="0xa0" name="cid00001"/><!-- NO-BREAK SPACE -->
+      <map code="0xa1" name="cid00096"/><!-- INVERTED EXCLAMATION MARK -->
+      <map code="0xa2" name="cid00097"/><!-- CENT SIGN -->
+      <map code="0xa3" name="cid00098"/><!-- POUND SIGN -->
+      <map code="0xa4" name="cid00099"/><!-- CURRENCY SIGN -->
+      <map code="0xa5" name="cid00100"/><!-- YEN SIGN -->
+      <map code="0xa6" name="cid00101"/><!-- BROKEN BAR -->
+      <map code="0xa7" name="cid00102"/><!-- SECTION SIGN -->
+      <map code="0xa8" name="cid00103"/><!-- DIAERESIS -->
+      <map code="0xa9" name="cid00104"/><!-- COPYRIGHT SIGN -->
+      <map code="0xaa" name="cid00105"/><!-- FEMININE ORDINAL INDICATOR -->
+      <map code="0xab" name="cid00106"/><!-- LEFT-POINTING DOUBLE ANGLE QUOTATION MARK -->
+      <map code="0xac" name="cid00107"/><!-- NOT SIGN -->
+      <map code="0xad" name="cid00108"/><!-- SOFT HYPHEN -->
+      <map code="0xae" name="cid00109"/><!-- REGISTERED SIGN -->
+      <map code="0xaf" name="cid00110"/><!-- MACRON -->
+      <map code="0xb0" name="cid00111"/><!-- DEGREE SIGN -->
+      <map code="0xb1" name="cid00112"/><!-- PLUS-MINUS SIGN -->
+      <map code="0xb2" name="cid00113"/><!-- SUPERSCRIPT TWO -->
+      <map code="0xb3" name="cid00114"/><!-- SUPERSCRIPT THREE -->
+      <map code="0xb4" name="cid00115"/><!-- ACUTE ACCENT -->
+      <map code="0xb5" name="cid00116"/><!-- MICRO SIGN -->
+      <map code="0xb6" name="cid00117"/><!-- PILCROW SIGN -->
+      <map code="0xb7" name="cid00118"/><!-- MIDDLE DOT -->
+      <map code="0xb8" name="cid00119"/><!-- CEDILLA -->
+      <map code="0xb9" name="cid00120"/><!-- SUPERSCRIPT ONE -->
+      <map code="0xba" name="cid00121"/><!-- MASCULINE ORDINAL INDICATOR -->
+      <map code="0xbb" name="cid00122"/><!-- RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK -->
+      <map code="0xbc" name="cid00123"/><!-- VULGAR FRACTION ONE QUARTER -->
+      <map code="0xbd" name="cid00124"/><!-- VULGAR FRACTION ONE HALF -->
+      <map code="0xbe" name="cid00125"/><!-- VULGAR FRACTION THREE QUARTERS -->
+      <map code="0xbf" name="cid00126"/><!-- INVERTED QUESTION MARK -->
+      <map code="0xc0" name="cid00127"/><!-- LATIN CAPITAL LETTER A WITH GRAVE -->
+      <map code="0xc1" name="cid00128"/><!-- LATIN CAPITAL LETTER A WITH ACUTE -->
+      <map code="0xc2" name="cid00129"/><!-- LATIN CAPITAL LETTER A WITH CIRCUMFLEX -->
+      <map code="0xc3" name="cid00130"/><!-- LATIN CAPITAL LETTER A WITH TILDE -->
+      <map code="0xc4" name="cid00131"/><!-- LATIN CAPITAL LETTER A WITH DIAERESIS -->
+      <map code="0xc5" name="cid00132"/><!-- LATIN CAPITAL LETTER A WITH RING ABOVE -->
+      <map code="0xc6" name="cid00133"/><!-- LATIN CAPITAL LETTER AE -->
+      <map code="0xc7" name="cid00134"/><!-- LATIN CAPITAL LETTER C WITH CEDILLA -->
+      <map code="0xc8" name="cid00135"/><!-- LATIN CAPITAL LETTER E WITH GRAVE -->
+      <map code="0xc9" name="cid00136"/><!-- LATIN CAPITAL LETTER E WITH ACUTE -->
+      <map code="0xca" name="cid00137"/><!-- LATIN CAPITAL LETTER E WITH CIRCUMFLEX -->
+      <map code="0xcb" name="cid00138"/><!-- LATIN CAPITAL LETTER E WITH DIAERESIS -->
+      <map code="0xcc" name="cid00139"/><!-- LATIN CAPITAL LETTER I WITH GRAVE -->
+      <map code="0xcd" name="cid00140"/><!-- LATIN CAPITAL LETTER I WITH ACUTE -->
+      <map code="0xce" name="cid00141"/><!-- LATIN CAPITAL LETTER I WITH CIRCUMFLEX -->
+      <map code="0xcf" name="cid00142"/><!-- LATIN CAPITAL LETTER I WITH DIAERESIS -->
+      <map code="0xd0" name="cid00143"/><!-- LATIN CAPITAL LETTER ETH -->
+      <map code="0xd1" name="cid00144"/><!-- LATIN CAPITAL LETTER N WITH TILDE -->
+      <map code="0xd2" name="cid00145"/><!-- LATIN CAPITAL LETTER O WITH GRAVE -->
+      <map code="0xd3" name="cid00146"/><!-- LATIN CAPITAL LETTER O WITH ACUTE -->
+      <map code="0xd4" name="cid00147"/><!-- LATIN CAPITAL LETTER O WITH CIRCUMFLEX -->
+      <map code="0xd5" name="cid00148"/><!-- LATIN CAPITAL LETTER O WITH TILDE -->
+      <map code="0xd6" name="cid00149"/><!-- LATIN CAPITAL LETTER O WITH DIAERESIS -->
+      <map code="0xd7" name="cid00150"/><!-- MULTIPLICATION SIGN -->
+      <map code="0xd8" name="cid00151"/><!-- LATIN CAPITAL LETTER O WITH STROKE -->
+      <map code="0xd9" name="cid00152"/><!-- LATIN CAPITAL LETTER U WITH GRAVE -->
+      <map code="0xda" name="cid00153"/><!-- LATIN CAPITAL LETTER U WITH ACUTE -->
+      <map code="0xdb" name="cid00154"/><!-- LATIN CAPITAL LETTER U WITH CIRCUMFLEX -->
+      <map code="0xdc" name="cid00155"/><!-- LATIN CAPITAL LETTER U WITH DIAERESIS -->
+      <map code="0xdd" name="cid00156"/><!-- LATIN CAPITAL LETTER Y WITH ACUTE -->
+      <map code="0xde" name="cid00157"/><!-- LATIN CAPITAL LETTER THORN -->
+      <map code="0xdf" name="cid00158"/><!-- LATIN SMALL LETTER SHARP S -->
+      <map code="0xe0" name="cid00159"/><!-- LATIN SMALL LETTER A WITH GRAVE -->
+      <map code="0xe1" name="cid00160"/><!-- LATIN SMALL LETTER A WITH ACUTE -->
+      <map code="0xe2" name="cid00161"/><!-- LATIN SMALL LETTER A WITH CIRCUMFLEX -->
+      <map code="0xe3" name="cid00162"/><!-- LATIN SMALL LETTER A WITH TILDE -->
+      <map code="0xe4" name="cid00163"/><!-- LATIN SMALL LETTER A WITH DIAERESIS -->
+      <map code="0xe5" name="cid00164"/><!-- LATIN SMALL LETTER A WITH RING ABOVE -->
+      <map code="0xe6" name="cid00165"/><!-- LATIN SMALL LETTER AE -->
+      <map code="0xe7" name="cid00166"/><!-- LATIN SMALL LETTER C WITH CEDILLA -->
+      <map code="0xe8" name="cid00167"/><!-- LATIN SMALL LETTER E WITH GRAVE -->
+      <map code="0xe9" name="cid00168"/><!-- LATIN SMALL LETTER E WITH ACUTE -->
+      <map code="0xea" name="cid00169"/><!-- LATIN SMALL LETTER E WITH CIRCUMFLEX -->
+      <map code="0xeb" name="cid00170"/><!-- LATIN SMALL LETTER E WITH DIAERESIS -->
+      <map code="0xec" name="cid00171"/><!-- LATIN SMALL LETTER I WITH GRAVE -->
+      <map code="0xed" name="cid00172"/><!-- LATIN SMALL LETTER I WITH ACUTE -->
+      <map code="0xee" name="cid00173"/><!-- LATIN SMALL LETTER I WITH CIRCUMFLEX -->
+      <map code="0xef" name="cid00174"/><!-- LATIN SMALL LETTER I WITH DIAERESIS -->
+      <map code="0xf0" name="cid00175"/><!-- LATIN SMALL LETTER ETH -->
+      <map code="0xf1" name="cid00176"/><!-- LATIN SMALL LETTER N WITH TILDE -->
+      <map code="0xf2" name="cid00177"/><!-- LATIN SMALL LETTER O WITH GRAVE -->
+      <map code="0xf3" name="cid00178"/><!-- LATIN SMALL LETTER O WITH ACUTE -->
+      <map code="0xf4" name="cid00179"/><!-- LATIN SMALL LETTER O WITH CIRCUMFLEX -->
+      <map code="0xf5" name="cid00180"/><!-- LATIN SMALL LETTER O WITH TILDE -->
+      <map code="0xf6" name="cid00181"/><!-- LATIN SMALL LETTER O WITH DIAERESIS -->
+      <map code="0xf7" name="cid00182"/><!-- DIVISION SIGN -->
+      <map code="0xf8" name="cid00183"/><!-- LATIN SMALL LETTER O WITH STROKE -->
+      <map code="0xf9" name="cid00184"/><!-- LATIN SMALL LETTER U WITH GRAVE -->
+      <map code="0xfa" name="cid00185"/><!-- LATIN SMALL LETTER U WITH ACUTE -->
+      <map code="0xfb" name="cid00186"/><!-- LATIN SMALL LETTER U WITH CIRCUMFLEX -->
+      <map code="0xfc" name="cid00187"/><!-- LATIN SMALL LETTER U WITH DIAERESIS -->
+      <map code="0xfd" name="cid00188"/><!-- LATIN SMALL LETTER Y WITH ACUTE -->
+      <map code="0xfe" name="cid00189"/><!-- LATIN SMALL LETTER THORN -->
+      <map code="0xff" name="cid00190"/><!-- LATIN SMALL LETTER Y WITH DIAERESIS -->
+      <map code="0x100" name="cid00191"/><!-- LATIN CAPITAL LETTER A WITH MACRON -->
+      <map code="0x101" name="cid00192"/><!-- LATIN SMALL LETTER A WITH MACRON -->
+      <map code="0x102" name="cid00193"/><!-- LATIN CAPITAL LETTER A WITH BREVE -->
+      <map code="0x103" name="cid00194"/><!-- LATIN SMALL LETTER A WITH BREVE -->
+      <map code="0x110" name="cid00195"/><!-- LATIN CAPITAL LETTER D WITH STROKE -->
+      <map code="0x111" name="cid00196"/><!-- LATIN SMALL LETTER D WITH STROKE -->
+      <map code="0x112" name="cid00197"/><!-- LATIN CAPITAL LETTER E WITH MACRON -->
+      <map code="0x113" name="cid00198"/><!-- LATIN SMALL LETTER E WITH MACRON -->
+      <map code="0x11a" name="cid00199"/><!-- LATIN CAPITAL LETTER E WITH CARON -->
+      <map code="0x11b" name="cid00200"/><!-- LATIN SMALL LETTER E WITH CARON -->
+      <map code="0x128" name="cid00201"/><!-- LATIN CAPITAL LETTER I WITH TILDE -->
+      <map code="0x129" name="cid00202"/><!-- LATIN SMALL LETTER I WITH TILDE -->
+      <map code="0x12a" name="cid00203"/><!-- LATIN CAPITAL LETTER I WITH MACRON -->
+      <map code="0x12b" name="cid00204"/><!-- LATIN SMALL LETTER I WITH MACRON -->
+      <map code="0x143" name="cid00205"/><!-- LATIN CAPITAL LETTER N WITH ACUTE -->
+      <map code="0x144" name="cid00206"/><!-- LATIN SMALL LETTER N WITH ACUTE -->
+      <map code="0x147" name="cid00207"/><!-- LATIN CAPITAL LETTER N WITH CARON -->
+      <map code="0x148" name="cid00208"/><!-- LATIN SMALL LETTER N WITH CARON -->
+      <map code="0x14c" name="cid00209"/><!-- LATIN CAPITAL LETTER O WITH MACRON -->
+      <map code="0x14d" name="cid00210"/><!-- LATIN SMALL LETTER O WITH MACRON -->
+      <map code="0x14e" name="cid00211"/><!-- LATIN CAPITAL LETTER O WITH BREVE -->
+      <map code="0x14f" name="cid00212"/><!-- LATIN SMALL LETTER O WITH BREVE -->
+      <map code="0x152" name="cid00213"/><!-- LATIN CAPITAL LIGATURE OE -->
+      <map code="0x153" name="cid00214"/><!-- LATIN SMALL LIGATURE OE -->
+      <map code="0x168" name="cid00215"/><!-- LATIN CAPITAL LETTER U WITH TILDE -->
+      <map code="0x169" name="cid00216"/><!-- LATIN SMALL LETTER U WITH TILDE -->
+      <map code="0x16a" name="cid00217"/><!-- LATIN CAPITAL LETTER U WITH MACRON -->
+      <map code="0x16b" name="cid00218"/><!-- LATIN SMALL LETTER U WITH MACRON -->
+      <map code="0x16c" name="cid00219"/><!-- LATIN CAPITAL LETTER U WITH BREVE -->
+      <map code="0x16d" name="cid00220"/><!-- LATIN SMALL LETTER U WITH BREVE -->
+      <map code="0x192" name="cid00221"/><!-- LATIN SMALL LETTER F WITH HOOK -->
+      <map code="0x1a0" name="cid00222"/><!-- LATIN CAPITAL LETTER O WITH HORN -->
+      <map code="0x1a1" name="cid00223"/><!-- LATIN SMALL LETTER O WITH HORN -->
+      <map code="0x1af" name="cid00224"/><!-- LATIN CAPITAL LETTER U WITH HORN -->
+      <map code="0x1b0" name="cid00225"/><!-- LATIN SMALL LETTER U WITH HORN -->
+      <map code="0x1cd" name="cid00226"/><!-- LATIN CAPITAL LETTER A WITH CARON -->
+      <map code="0x1ce" name="cid00227"/><!-- LATIN SMALL LETTER A WITH CARON -->
+      <map code="0x1cf" name="cid00228"/><!-- LATIN CAPITAL LETTER I WITH CARON -->
+      <map code="0x1d0" name="cid00229"/><!-- LATIN SMALL LETTER I WITH CARON -->
+      <map code="0x1d1" name="cid00230"/><!-- LATIN CAPITAL LETTER O WITH CARON -->
+      <map code="0x1d2" name="cid00231"/><!-- LATIN SMALL LETTER O WITH CARON -->
+      <map code="0x1d3" name="cid00232"/><!-- LATIN CAPITAL LETTER U WITH CARON -->
+      <map code="0x1d4" name="cid00233"/><!-- LATIN SMALL LETTER U WITH CARON -->
+      <map code="0x1d5" name="cid00234"/><!-- LATIN CAPITAL LETTER U WITH DIAERESIS AND MACRON -->
+      <map code="0x1d6" name="cid00235"/><!-- LATIN SMALL LETTER U WITH DIAERESIS AND MACRON -->
+      <map code="0x1d7" name="cid00236"/><!-- LATIN CAPITAL LETTER U WITH DIAERESIS AND ACUTE -->
+      <map code="0x1d8" name="cid00237"/><!-- LATIN SMALL LETTER U WITH DIAERESIS AND ACUTE -->
+      <map code="0x1d9" name="cid00238"/><!-- LATIN CAPITAL LETTER U WITH DIAERESIS AND CARON -->
+      <map code="0x1da" name="cid00239"/><!-- LATIN SMALL LETTER U WITH DIAERESIS AND CARON -->
+      <map code="0x1db" name="cid00240"/><!-- LATIN CAPITAL LETTER U WITH DIAERESIS AND GRAVE -->
+      <map code="0x1dc" name="cid00241"/><!-- LATIN SMALL LETTER U WITH DIAERESIS AND GRAVE -->
+      <map code="0x1f8" name="cid00242"/><!-- LATIN CAPITAL LETTER N WITH GRAVE -->
+      <map code="0x1f9" name="cid00243"/><!-- LATIN SMALL LETTER N WITH GRAVE -->
+      <map code="0x251" name="cid00244"/><!-- LATIN SMALL LETTER ALPHA -->
+      <map code="0x261" name="cid00245"/><!-- LATIN SMALL LETTER SCRIPT G -->
+      <map code="0x2c7" name="cid00246"/><!-- CARON -->
+      <map code="0x2c9" name="cid00247"/><!-- MODIFIER LETTER MACRON -->
+      <map code="0x2ca" name="cid00248"/><!-- MODIFIER LETTER ACUTE ACCENT -->
+      <map code="0x2cb" name="cid00249"/><!-- MODIFIER LETTER GRAVE ACCENT -->
+      <map code="0x2d9" name="cid00250"/><!-- DOT ABOVE -->
+      <map code="0x391" name="cid00251"/><!-- GREEK CAPITAL LETTER ALPHA -->
+      <map code="0x392" name="cid00252"/><!-- GREEK CAPITAL LETTER BETA -->
+      <map code="0x393" name="cid00253"/><!-- GREEK CAPITAL LETTER GAMMA -->
+      <map code="0x394" name="cid00254"/><!-- GREEK CAPITAL LETTER DELTA -->
+      <map code="0x395" name="cid00255"/><!-- GREEK CAPITAL LETTER EPSILON -->
+      <map code="0x396" name="cid00256"/><!-- GREEK CAPITAL LETTER ZETA -->
+      <map code="0x397" name="cid00257"/><!-- GREEK CAPITAL LETTER ETA -->
+      <map code="0x398" name="cid00258"/><!-- GREEK CAPITAL LETTER THETA -->
+      <map code="0x399" name="cid00259"/><!-- GREEK CAPITAL LETTER IOTA -->
+      <map code="0x39a" name="cid00260"/><!-- GREEK CAPITAL LETTER KAPPA -->
+      <map code="0x39b" name="cid00261"/><!-- GREEK CAPITAL LETTER LAMDA -->
+      <map code="0x39c" name="cid00262"/><!-- GREEK CAPITAL LETTER MU -->
+      <map code="0x39d" name="cid00263"/><!-- GREEK CAPITAL LETTER NU -->
+      <map code="0x39e" name="cid00264"/><!-- GREEK CAPITAL LETTER XI -->
+      <map code="0x39f" name="cid00265"/><!-- GREEK CAPITAL LETTER OMICRON -->
+      <map code="0x3a0" name="cid00266"/><!-- GREEK CAPITAL LETTER PI -->
+      <map code="0x3a1" name="cid00267"/><!-- GREEK CAPITAL LETTER RHO -->
+      <map code="0x3a3" name="cid00268"/><!-- GREEK CAPITAL LETTER SIGMA -->
+      <map code="0x3a4" name="cid00269"/><!-- GREEK CAPITAL LETTER TAU -->
+      <map code="0x3a5" name="cid00270"/><!-- GREEK CAPITAL LETTER UPSILON -->
+      <map code="0x3a6" name="cid00271"/><!-- GREEK CAPITAL LETTER PHI -->
+      <map code="0x3a7" name="cid00272"/><!-- GREEK CAPITAL LETTER CHI -->
+      <map code="0x3a8" name="cid00273"/><!-- GREEK CAPITAL LETTER PSI -->
+      <map code="0x3a9" name="cid00274"/><!-- GREEK CAPITAL LETTER OMEGA -->
+      <map code="0x3b1" name="cid00275"/><!-- GREEK SMALL LETTER ALPHA -->
+      <map code="0x3b2" name="cid00276"/><!-- GREEK SMALL LETTER BETA -->
+      <map code="0x3b3" name="cid00277"/><!-- GREEK SMALL LETTER GAMMA -->
+      <map code="0x3b4" name="cid00278"/><!-- GREEK SMALL LETTER DELTA -->
+      <map code="0x3b5" name="cid00279"/><!-- GREEK SMALL LETTER EPSILON -->
+      <map code="0x3b6" name="cid00280"/><!-- GREEK SMALL LETTER ZETA -->
+      <map code="0x3b7" name="cid00281"/><!-- GREEK SMALL LETTER ETA -->
+      <map code="0x3b8" name="cid00282"/><!-- GREEK SMALL LETTER THETA -->
+      <map code="0x3b9" name="cid00283"/><!-- GREEK SMALL LETTER IOTA -->
+      <map code="0x3ba" name="cid00284"/><!-- GREEK SMALL LETTER KAPPA -->
+      <map code="0x3bb" name="cid00285"/><!-- GREEK SMALL LETTER LAMDA -->
+      <map code="0x3bc" name="cid00286"/><!-- GREEK SMALL LETTER MU -->
+      <map code="0x3bd" name="cid00287"/><!-- GREEK SMALL LETTER NU -->
+      <map code="0x3be" name="cid00288"/><!-- GREEK SMALL LETTER XI -->
+      <map code="0x3bf" name="cid00289"/><!-- GREEK SMALL LETTER OMICRON -->
+      <map code="0x3c0" name="cid00290"/><!-- GREEK SMALL LETTER PI -->
+      <map code="0x3c1" name="cid00291"/><!-- GREEK SMALL LETTER RHO -->
+      <map code="0x3c3" name="cid00292"/><!-- GREEK SMALL LETTER SIGMA -->
+      <map code="0x3c4" name="cid00293"/><!-- GREEK SMALL LETTER TAU -->
+      <map code="0x3c5" name="cid00294"/><!-- GREEK SMALL LETTER UPSILON -->
+      <map code="0x3c6" name="cid00295"/><!-- GREEK SMALL LETTER PHI -->
+      <map code="0x3c7" name="cid00296"/><!-- GREEK SMALL LETTER CHI -->
+      <map code="0x3c8" name="cid00297"/><!-- GREEK SMALL LETTER PSI -->
+      <map code="0x3c9" name="cid00298"/><!-- GREEK SMALL LETTER OMEGA -->
+      <map code="0x401" name="cid00299"/><!-- CYRILLIC CAPITAL LETTER IO -->
+      <map code="0x410" name="cid00300"/><!-- CYRILLIC CAPITAL LETTER A -->
+      <map code="0x411" name="cid00301"/><!-- CYRILLIC CAPITAL LETTER BE -->
+      <map code="0x412" name="cid00302"/><!-- CYRILLIC CAPITAL LETTER VE -->
+      <map code="0x413" name="cid00303"/><!-- CYRILLIC CAPITAL LETTER GHE -->
+      <map code="0x414" name="cid00304"/><!-- CYRILLIC CAPITAL LETTER DE -->
+      <map code="0x415" name="cid00305"/><!-- CYRILLIC CAPITAL LETTER IE -->
+      <map code="0x416" name="cid00306"/><!-- CYRILLIC CAPITAL LETTER ZHE -->
+      <map code="0x417" name="cid00307"/><!-- CYRILLIC CAPITAL LETTER ZE -->
+      <map code="0x418" name="cid00308"/><!-- CYRILLIC CAPITAL LETTER I -->
+      <map code="0x419" name="cid00309"/><!-- CYRILLIC CAPITAL LETTER SHORT I -->
+      <map code="0x41a" name="cid00310"/><!-- CYRILLIC CAPITAL LETTER KA -->
+      <map code="0x41b" name="cid00311"/><!-- CYRILLIC CAPITAL LETTER EL -->
+      <map code="0x41c" name="cid00312"/><!-- CYRILLIC CAPITAL LETTER EM -->
+      <map code="0x41d" name="cid00313"/><!-- CYRILLIC CAPITAL LETTER EN -->
+      <map code="0x41e" name="cid00314"/><!-- CYRILLIC CAPITAL LETTER O -->
+      <map code="0x41f" name="cid00315"/><!-- CYRILLIC CAPITAL LETTER PE -->
+      <map code="0x420" name="cid00316"/><!-- CYRILLIC CAPITAL LETTER ER -->
+      <map code="0x421" name="cid00317"/><!-- CYRILLIC CAPITAL LETTER ES -->
+      <map code="0x422" name="cid00318"/><!-- CYRILLIC CAPITAL LETTER TE -->
+      <map code="0x423" name="cid00319"/><!-- CYRILLIC CAPITAL LETTER U -->
+      <map code="0x424" name="cid00320"/><!-- CYRILLIC CAPITAL LETTER EF -->
+      <map code="0x425" name="cid00321"/><!-- CYRILLIC CAPITAL LETTER HA -->
+      <map code="0x426" name="cid00322"/><!-- CYRILLIC CAPITAL LETTER TSE -->
+      <map code="0x427" name="cid00323"/><!-- CYRILLIC CAPITAL LETTER CHE -->
+      <map code="0x428" name="cid00324"/><!-- CYRILLIC CAPITAL LETTER SHA -->
+      <map code="0x429" name="cid00325"/><!-- CYRILLIC CAPITAL LETTER SHCHA -->
+      <map code="0x42a" name="cid00326"/><!-- CYRILLIC CAPITAL LETTER HARD SIGN -->
+      <map code="0x42b" name="cid00327"/><!-- CYRILLIC CAPITAL LETTER YERU -->
+      <map code="0x42c" name="cid00328"/><!-- CYRILLIC CAPITAL LETTER SOFT SIGN -->
+      <map code="0x42d" name="cid00329"/><!-- CYRILLIC CAPITAL LETTER E -->
+      <map code="0x42e" name="cid00330"/><!-- CYRILLIC CAPITAL LETTER YU -->
+      <map code="0x42f" name="cid00331"/><!-- CYRILLIC CAPITAL LETTER YA -->
+      <map code="0x430" name="cid00332"/><!-- CYRILLIC SMALL LETTER A -->
+      <map code="0x431" name="cid00333"/><!-- CYRILLIC SMALL LETTER BE -->
+      <map code="0x432" name="cid00334"/><!-- CYRILLIC SMALL LETTER VE -->
+      <map code="0x433" name="cid00335"/><!-- CYRILLIC SMALL LETTER GHE -->
+      <map code="0x434" name="cid00336"/><!-- CYRILLIC SMALL LETTER DE -->
+      <map code="0x435" name="cid00337"/><!-- CYRILLIC SMALL LETTER IE -->
+      <map code="0x436" name="cid00338"/><!-- CYRILLIC SMALL LETTER ZHE -->
+      <map code="0x437" name="cid00339"/><!-- CYRILLIC SMALL LETTER ZE -->
+      <map code="0x438" name="cid00340"/><!-- CYRILLIC SMALL LETTER I -->
+      <map code="0x439" name="cid00341"/><!-- CYRILLIC SMALL LETTER SHORT I -->
+      <map code="0x43a" name="cid00342"/><!-- CYRILLIC SMALL LETTER KA -->
+      <map code="0x43b" name="cid00343"/><!-- CYRILLIC SMALL LETTER EL -->
+      <map code="0x43c" name="cid00344"/><!-- CYRILLIC SMALL LETTER EM -->
+      <map code="0x43d" name="cid00345"/><!-- CYRILLIC SMALL LETTER EN -->
+      <map code="0x43e" name="cid00346"/><!-- CYRILLIC SMALL LETTER O -->
+      <map code="0x43f" name="cid00347"/><!-- CYRILLIC SMALL LETTER PE -->
+      <map code="0x440" name="cid00348"/><!-- CYRILLIC SMALL LETTER ER -->
+      <map code="0x441" name="cid00349"/><!-- CYRILLIC SMALL LETTER ES -->
+      <map code="0x442" name="cid00350"/><!-- CYRILLIC SMALL LETTER TE -->
+      <map code="0x443" name="cid00351"/><!-- CYRILLIC SMALL LETTER U -->
+      <map code="0x444" name="cid00352"/><!-- CYRILLIC SMALL LETTER EF -->
+      <map code="0x445" name="cid00353"/><!-- CYRILLIC SMALL LETTER HA -->
+      <map code="0x446" name="cid00354"/><!-- CYRILLIC SMALL LETTER TSE -->
+      <map code="0x447" name="cid00355"/><!-- CYRILLIC SMALL LETTER CHE -->
+      <map code="0x448" name="cid00356"/><!-- CYRILLIC SMALL LETTER SHA -->
+      <map code="0x449" name="cid00357"/><!-- CYRILLIC SMALL LETTER SHCHA -->
+      <map code="0x44a" name="cid00358"/><!-- CYRILLIC SMALL LETTER HARD SIGN -->
+      <map code="0x44b" name="cid00359"/><!-- CYRILLIC SMALL LETTER YERU -->
+      <map code="0x44c" name="cid00360"/><!-- CYRILLIC SMALL LETTER SOFT SIGN -->
+      <map code="0x44d" name="cid00361"/><!-- CYRILLIC SMALL LETTER E -->
+      <map code="0x44e" name="cid00362"/><!-- CYRILLIC SMALL LETTER YU -->
+      <map code="0x44f" name="cid00363"/><!-- CYRILLIC SMALL LETTER YA -->
+      <map code="0x451" name="cid00364"/><!-- CYRILLIC SMALL LETTER IO -->
+    </cmap_format_4>
+    <cmap_format_12 platformID="0" platEncID="4" format="12" reserved="0" length="196276" language="0" nGroups="16355">
+      <map code="0x0" name="cid00001"/><!-- ???? -->
+      <map code="0x1" name="cid00001"/><!-- ???? -->
+      <map code="0x2" name="cid00001"/><!-- ???? -->
+      <map code="0x3" name="cid00001"/><!-- ???? -->
+      <map code="0x4" name="cid00001"/><!-- ???? -->
+      <map code="0x5" name="cid00001"/><!-- ???? -->
+      <map code="0x6" name="cid00001"/><!-- ???? -->
+      <map code="0x7" name="cid00001"/><!-- ???? -->
+      <map code="0x8" name="cid00001"/><!-- ???? -->
+      <map code="0x9" name="cid00001"/><!-- ???? -->
+      <map code="0xa" name="cid00001"/><!-- ???? -->
+      <map code="0xb" name="cid00001"/><!-- ???? -->
+      <map code="0xc" name="cid00001"/><!-- ???? -->
+      <map code="0xd" name="cid00001"/><!-- ???? -->
+      <map code="0xe" name="cid00001"/><!-- ???? -->
+      <map code="0xf" name="cid00001"/><!-- ???? -->
+      <map code="0x10" name="cid00001"/><!-- ???? -->
+      <map code="0x11" name="cid00001"/><!-- ???? -->
+      <map code="0x12" name="cid00001"/><!-- ???? -->
+      <map code="0x13" name="cid00001"/><!-- ???? -->
+      <map code="0x14" name="cid00001"/><!-- ???? -->
+      <map code="0x15" name="cid00001"/><!-- ???? -->
+      <map code="0x16" name="cid00001"/><!-- ???? -->
+      <map code="0x17" name="cid00001"/><!-- ???? -->
+      <map code="0x18" name="cid00001"/><!-- ???? -->
+      <map code="0x19" name="cid00001"/><!-- ???? -->
+      <map code="0x1a" name="cid00001"/><!-- ???? -->
+      <map code="0x1b" name="cid00001"/><!-- ???? -->
+      <map code="0x1c" name="cid00001"/><!-- ???? -->
+      <map code="0x1d" name="cid00001"/><!-- ???? -->
+      <map code="0x1e" name="cid00001"/><!-- ???? -->
+      <map code="0x1f" name="cid00001"/><!-- ???? -->
+      <map code="0x20" name="cid00001"/><!-- SPACE -->
+      <map code="0x21" name="cid00002"/><!-- EXCLAMATION MARK -->
+      <map code="0x22" name="cid00003"/><!-- QUOTATION MARK -->
+      <map code="0x23" name="cid00004"/><!-- NUMBER SIGN -->
+      <map code="0x24" name="cid00005"/><!-- DOLLAR SIGN -->
+      <map code="0x25" name="cid00006"/><!-- PERCENT SIGN -->
+      <map code="0x26" name="cid00007"/><!-- AMPERSAND -->
+      <map code="0x27" name="cid00008"/><!-- APOSTROPHE -->
+      <map code="0x28" name="cid00009"/><!-- LEFT PARENTHESIS -->
+      <map code="0x29" name="cid00010"/><!-- RIGHT PARENTHESIS -->
+      <map code="0x2a" name="cid00011"/><!-- ASTERISK -->
+      <map code="0x2b" name="cid00012"/><!-- PLUS SIGN -->
+      <map code="0x2c" name="cid00013"/><!-- COMMA -->
+      <map code="0x2d" name="cid00014"/><!-- HYPHEN-MINUS -->
+      <map code="0x2e" name="cid00015"/><!-- FULL STOP -->
+      <map code="0x2f" name="cid00016"/><!-- SOLIDUS -->
+      <map code="0x30" name="cid00017"/><!-- DIGIT ZERO -->
+      <map code="0x31" name="cid00018"/><!-- DIGIT ONE -->
+      <map code="0x32" name="cid00019"/><!-- DIGIT TWO -->
+      <map code="0x33" name="cid00020"/><!-- DIGIT THREE -->
+      <map code="0x34" name="cid00021"/><!-- DIGIT FOUR -->
+      <map code="0x35" name="cid00022"/><!-- DIGIT FIVE -->
+      <map code="0x36" name="cid00023"/><!-- DIGIT SIX -->
+      <map code="0x37" name="cid00024"/><!-- DIGIT SEVEN -->
+      <map code="0x38" name="cid00025"/><!-- DIGIT EIGHT -->
+      <map code="0x39" name="cid00026"/><!-- DIGIT NINE -->
+      <map code="0x3a" name="cid00027"/><!-- COLON -->
+      <map code="0x3b" name="cid00028"/><!-- SEMICOLON -->
+      <map code="0x3c" name="cid00029"/><!-- LESS-THAN SIGN -->
+      <map code="0x3d" name="cid00030"/><!-- EQUALS SIGN -->
+      <map code="0x3e" name="cid00031"/><!-- GREATER-THAN SIGN -->
+      <map code="0x3f" name="cid00032"/><!-- QUESTION MARK -->
+      <map code="0x40" name="cid00033"/><!-- COMMERCIAL AT -->
+      <map code="0x41" name="cid00034"/><!-- LATIN CAPITAL LETTER A -->
+      <map code="0x42" name="cid00035"/><!-- LATIN CAPITAL LETTER B -->
+      <map code="0x43" name="cid00036"/><!-- LATIN CAPITAL LETTER C -->
+      <map code="0x44" name="cid00037"/><!-- LATIN CAPITAL LETTER D -->
+      <map code="0x45" name="cid00038"/><!-- LATIN CAPITAL LETTER E -->
+      <map code="0x46" name="cid00039"/><!-- LATIN CAPITAL LETTER F -->
+      <map code="0x47" name="cid00040"/><!-- LATIN CAPITAL LETTER G -->
+      <map code="0x48" name="cid00041"/><!-- LATIN CAPITAL LETTER H -->
+      <map code="0x49" name="cid00042"/><!-- LATIN CAPITAL LETTER I -->
+      <map code="0x4a" name="cid00043"/><!-- LATIN CAPITAL LETTER J -->
+      <map code="0x4b" name="cid00044"/><!-- LATIN CAPITAL LETTER K -->
+      <map code="0x4c" name="cid00045"/><!-- LATIN CAPITAL LETTER L -->
+      <map code="0x4d" name="cid00046"/><!-- LATIN CAPITAL LETTER M -->
+      <map code="0x4e" name="cid00047"/><!-- LATIN CAPITAL LETTER N -->
+      <map code="0x4f" name="cid00048"/><!-- LATIN CAPITAL LETTER O -->
+      <map code="0x50" name="cid00049"/><!-- LATIN CAPITAL LETTER P -->
+      <map code="0x51" name="cid00050"/><!-- LATIN CAPITAL LETTER Q -->
+      <map code="0x52" name="cid00051"/><!-- LATIN CAPITAL LETTER R -->
+      <map code="0x53" name="cid00052"/><!-- LATIN CAPITAL LETTER S -->
+      <map code="0x54" name="cid00053"/><!-- LATIN CAPITAL LETTER T -->
+      <map code="0x55" name="cid00054"/><!-- LATIN CAPITAL LETTER U -->
+      <map code="0x56" name="cid00055"/><!-- LATIN CAPITAL LETTER V -->
+      <map code="0x57" name="cid00056"/><!-- LATIN CAPITAL LETTER W -->
+      <map code="0x58" name="cid00057"/><!-- LATIN CAPITAL LETTER X -->
+      <map code="0x59" name="cid00058"/><!-- LATIN CAPITAL LETTER Y -->
+      <map code="0x5a" name="cid00059"/><!-- LATIN CAPITAL LETTER Z -->
+      <map code="0x5b" name="cid00060"/><!-- LEFT SQUARE BRACKET -->
+      <map code="0x5c" name="cid00061"/><!-- REVERSE SOLIDUS -->
+      <map code="0x5d" name="cid00062"/><!-- RIGHT SQUARE BRACKET -->
+      <map code="0x5e" name="cid00063"/><!-- CIRCUMFLEX ACCENT -->
+      <map code="0x5f" name="cid00064"/><!-- LOW LINE -->
+      <map code="0x60" name="cid00065"/><!-- GRAVE ACCENT -->
+      <map code="0x61" name="cid00066"/><!-- LATIN SMALL LETTER A -->
+      <map code="0x62" name="cid00067"/><!-- LATIN SMALL LETTER B -->
+      <map code="0x63" name="cid00068"/><!-- LATIN SMALL LETTER C -->
+      <map code="0x64" name="cid00069"/><!-- LATIN SMALL LETTER D -->
+      <map code="0x65" name="cid00070"/><!-- LATIN SMALL LETTER E -->
+      <map code="0x66" name="cid00071"/><!-- LATIN SMALL LETTER F -->
+      <map code="0x67" name="cid00072"/><!-- LATIN SMALL LETTER G -->
+      <map code="0x68" name="cid00073"/><!-- LATIN SMALL LETTER H -->
+      <map code="0x69" name="cid00074"/><!-- LATIN SMALL LETTER I -->
+      <map code="0x6a" name="cid00075"/><!-- LATIN SMALL LETTER J -->
+      <map code="0x6b" name="cid00076"/><!-- LATIN SMALL LETTER K -->
+      <map code="0x6c" name="cid00077"/><!-- LATIN SMALL LETTER L -->
+      <map code="0x6d" name="cid00078"/><!-- LATIN SMALL LETTER M -->
+      <map code="0x6e" name="cid00079"/><!-- LATIN SMALL LETTER N -->
+      <map code="0x6f" name="cid00080"/><!-- LATIN SMALL LETTER O -->
+      <map code="0x70" name="cid00081"/><!-- LATIN SMALL LETTER P -->
+      <map code="0x71" name="cid00082"/><!-- LATIN SMALL LETTER Q -->
+      <map code="0x72" name="cid00083"/><!-- LATIN SMALL LETTER R -->
+      <map code="0x73" name="cid00084"/><!-- LATIN SMALL LETTER S -->
+      <map code="0x74" name="cid00085"/><!-- LATIN SMALL LETTER T -->
+      <map code="0x75" name="cid00086"/><!-- LATIN SMALL LETTER U -->
+      <map code="0x76" name="cid00087"/><!-- LATIN SMALL LETTER V -->
+      <map code="0x77" name="cid00088"/><!-- LATIN SMALL LETTER W -->
+      <map code="0x78" name="cid00089"/><!-- LATIN SMALL LETTER X -->
+      <map code="0x79" name="cid00090"/><!-- LATIN SMALL LETTER Y -->
+      <map code="0x7a" name="cid00091"/><!-- LATIN SMALL LETTER Z -->
+      <map code="0x7b" name="cid00092"/><!-- LEFT CURLY BRACKET -->
+      <map code="0x7c" name="cid00093"/><!-- VERTICAL LINE -->
+      <map code="0x7d" name="cid00094"/><!-- RIGHT CURLY BRACKET -->
+      <map code="0x7e" name="cid00095"/><!-- TILDE -->
+      <map code="0xa0" name="cid00001"/><!-- NO-BREAK SPACE -->
+      <map code="0xa1" name="cid00096"/><!-- INVERTED EXCLAMATION MARK -->
+      <map code="0xa2" name="cid00097"/><!-- CENT SIGN -->
+      <map code="0xa3" name="cid00098"/><!-- POUND SIGN -->
+      <map code="0xa4" name="cid00099"/><!-- CURRENCY SIGN -->
+      <map code="0xa5" name="cid00100"/><!-- YEN SIGN -->
+      <map code="0xa6" name="cid00101"/><!-- BROKEN BAR -->
+      <map code="0xa7" name="cid00102"/><!-- SECTION SIGN -->
+      <map code="0xa8" name="cid00103"/><!-- DIAERESIS -->
+      <map code="0xa9" name="cid00104"/><!-- COPYRIGHT SIGN -->
+      <map code="0xaa" name="cid00105"/><!-- FEMININE ORDINAL INDICATOR -->
+      <map code="0xab" name="cid00106"/><!-- LEFT-POINTING DOUBLE ANGLE QUOTATION MARK -->
+      <map code="0xac" name="cid00107"/><!-- NOT SIGN -->
+      <map code="0xad" name="cid00108"/><!-- SOFT HYPHEN -->
+      <map code="0xae" name="cid00109"/><!-- REGISTERED SIGN -->
+      <map code="0xaf" name="cid00110"/><!-- MACRON -->
+      <map code="0xb0" name="cid00111"/><!-- DEGREE SIGN -->
+      <map code="0xb1" name="cid00112"/><!-- PLUS-MINUS SIGN -->
+      <map code="0xb2" name="cid00113"/><!-- SUPERSCRIPT TWO -->
+      <map code="0xb3" name="cid00114"/><!-- SUPERSCRIPT THREE -->
+      <map code="0xb4" name="cid00115"/><!-- ACUTE ACCENT -->
+      <map code="0xb5" name="cid00116"/><!-- MICRO SIGN -->
+      <map code="0xb6" name="cid00117"/><!-- PILCROW SIGN -->
+      <map code="0xb7" name="cid00118"/><!-- MIDDLE DOT -->
+      <map code="0xb8" name="cid00119"/><!-- CEDILLA -->
+      <map code="0xb9" name="cid00120"/><!-- SUPERSCRIPT ONE -->
+      <map code="0xba" name="cid00121"/><!-- MASCULINE ORDINAL INDICATOR -->
+      <map code="0xbb" name="cid00122"/><!-- RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK -->
+      <map code="0xbc" name="cid00123"/><!-- VULGAR FRACTION ONE QUARTER -->
+      <map code="0xbd" name="cid00124"/><!-- VULGAR FRACTION ONE HALF -->
+      <map code="0xbe" name="cid00125"/><!-- VULGAR FRACTION THREE QUARTERS -->
+      <map code="0xbf" name="cid00126"/><!-- INVERTED QUESTION MARK -->
+      <map code="0xc0" name="cid00127"/><!-- LATIN CAPITAL LETTER A WITH GRAVE -->
+      <map code="0xc1" name="cid00128"/><!-- LATIN CAPITAL LETTER A WITH ACUTE -->
+      <map code="0xc2" name="cid00129"/><!-- LATIN CAPITAL LETTER A WITH CIRCUMFLEX -->
+      <map code="0xc3" name="cid00130"/><!-- LATIN CAPITAL LETTER A WITH TILDE -->
+      <map code="0xc4" name="cid00131"/><!-- LATIN CAPITAL LETTER A WITH DIAERESIS -->
+      <map code="0xc5" name="cid00132"/><!-- LATIN CAPITAL LETTER A WITH RING ABOVE -->
+      <map code="0xc6" name="cid00133"/><!-- LATIN CAPITAL LETTER AE -->
+      <map code="0xc7" name="cid00134"/><!-- LATIN CAPITAL LETTER C WITH CEDILLA -->
+      <map code="0xc8" name="cid00135"/><!-- LATIN CAPITAL LETTER E WITH GRAVE -->
+      <map code="0xc9" name="cid00136"/><!-- LATIN CAPITAL LETTER E WITH ACUTE -->
+      <map code="0xca" name="cid00137"/><!-- LATIN CAPITAL LETTER E WITH CIRCUMFLEX -->
+      <map code="0xcb" name="cid00138"/><!-- LATIN CAPITAL LETTER E WITH DIAERESIS -->
+      <map code="0xcc" name="cid00139"/><!-- LATIN CAPITAL LETTER I WITH GRAVE -->
+      <map code="0xcd" name="cid00140"/><!-- LATIN CAPITAL LETTER I WITH ACUTE -->
+      <map code="0xce" name="cid00141"/><!-- LATIN CAPITAL LETTER I WITH CIRCUMFLEX -->
+      <map code="0xcf" name="cid00142"/><!-- LATIN CAPITAL LETTER I WITH DIAERESIS -->
+      <map code="0xd0" name="cid00143"/><!-- LATIN CAPITAL LETTER ETH -->
+      <map code="0xd1" name="cid00144"/><!-- LATIN CAPITAL LETTER N WITH TILDE -->
+      <map code="0xd2" name="cid00145"/><!-- LATIN CAPITAL LETTER O WITH GRAVE -->
+      <map code="0xd3" name="cid00146"/><!-- LATIN CAPITAL LETTER O WITH ACUTE -->
+      <map code="0xd4" name="cid00147"/><!-- LATIN CAPITAL LETTER O WITH CIRCUMFLEX -->
+      <map code="0xd5" name="cid00148"/><!-- LATIN CAPITAL LETTER O WITH TILDE -->
+      <map code="0xd6" name="cid00149"/><!-- LATIN CAPITAL LETTER O WITH DIAERESIS -->
+      <map code="0xd7" name="cid00150"/><!-- MULTIPLICATION SIGN -->
+      <map code="0xd8" name="cid00151"/><!-- LATIN CAPITAL LETTER O WITH STROKE -->
+      <map code="0xd9" name="cid00152"/><!-- LATIN CAPITAL LETTER U WITH GRAVE -->
+      <map code="0xda" name="cid00153"/><!-- LATIN CAPITAL LETTER U WITH ACUTE -->
+      <map code="0xdb" name="cid00154"/><!-- LATIN CAPITAL LETTER U WITH CIRCUMFLEX -->
+      <map code="0xdc" name="cid00155"/><!-- LATIN CAPITAL LETTER U WITH DIAERESIS -->
+      <map code="0xdd" name="cid00156"/><!-- LATIN CAPITAL LETTER Y WITH ACUTE -->
+      <map code="0xde" name="cid00157"/><!-- LATIN CAPITAL LETTER THORN -->
+      <map code="0xdf" name="cid00158"/><!-- LATIN SMALL LETTER SHARP S -->
+      <map code="0xe0" name="cid00159"/><!-- LATIN SMALL LETTER A WITH GRAVE -->
+      <map code="0xe1" name="cid00160"/><!-- LATIN SMALL LETTER A WITH ACUTE -->
+      <map code="0xe2" name="cid00161"/><!-- LATIN SMALL LETTER A WITH CIRCUMFLEX -->
+      <map code="0xe3" name="cid00162"/><!-- LATIN SMALL LETTER A WITH TILDE -->
+      <map code="0xe4" name="cid00163"/><!-- LATIN SMALL LETTER A WITH DIAERESIS -->
+      <map code="0xe5" name="cid00164"/><!-- LATIN SMALL LETTER A WITH RING ABOVE -->
+      <map code="0xe6" name="cid00165"/><!-- LATIN SMALL LETTER AE -->
+      <map code="0xe7" name="cid00166"/><!-- LATIN SMALL LETTER C WITH CEDILLA -->
+      <map code="0xe8" name="cid00167"/><!-- LATIN SMALL LETTER E WITH GRAVE -->
+      <map code="0xe9" name="cid00168"/><!-- LATIN SMALL LETTER E WITH ACUTE -->
+      <map code="0xea" name="cid00169"/><!-- LATIN SMALL LETTER E WITH CIRCUMFLEX -->
+      <map code="0xeb" name="cid00170"/><!-- LATIN SMALL LETTER E WITH DIAERESIS -->
+      <map code="0xec" name="cid00171"/><!-- LATIN SMALL LETTER I WITH GRAVE -->
+      <map code="0xed" name="cid00172"/><!-- LATIN SMALL LETTER I WITH ACUTE -->
+      <map code="0xee" name="cid00173"/><!-- LATIN SMALL LETTER I WITH CIRCUMFLEX -->
+      <map code="0xef" name="cid00174"/><!-- LATIN SMALL LETTER I WITH DIAERESIS -->
+      <map code="0xf0" name="cid00175"/><!-- LATIN SMALL LETTER ETH -->
+      <map code="0xf1" name="cid00176"/><!-- LATIN SMALL LETTER N WITH TILDE -->
+      <map code="0xf2" name="cid00177"/><!-- LATIN SMALL LETTER O WITH GRAVE -->
+      <map code="0xf3" name="cid00178"/><!-- LATIN SMALL LETTER O WITH ACUTE -->
+      <map code="0xf4" name="cid00179"/><!-- LATIN SMALL LETTER O WITH CIRCUMFLEX -->
+      <map code="0xf5" name="cid00180"/><!-- LATIN SMALL LETTER O WITH TILDE -->
+      <map code="0xf6" name="cid00181"/><!-- LATIN SMALL LETTER O WITH DIAERESIS -->
+      <map code="0xf7" name="cid00182"/><!-- DIVISION SIGN -->
+      <map code="0xf8" name="cid00183"/><!-- LATIN SMALL LETTER O WITH STROKE -->
+      <map code="0xf9" name="cid00184"/><!-- LATIN SMALL LETTER U WITH GRAVE -->
+      <map code="0xfa" name="cid00185"/><!-- LATIN SMALL LETTER U WITH ACUTE -->
+      <map code="0xfb" name="cid00186"/><!-- LATIN SMALL LETTER U WITH CIRCUMFLEX -->
+      <map code="0xfc" name="cid00187"/><!-- LATIN SMALL LETTER U WITH DIAERESIS -->
+      <map code="0xfd" name="cid00188"/><!-- LATIN SMALL LETTER Y WITH ACUTE -->
+      <map code="0xfe" name="cid00189"/><!-- LATIN SMALL LETTER THORN -->
+      <map code="0xff" name="cid00190"/><!-- LATIN SMALL LETTER Y WITH DIAERESIS -->
+      <map code="0x100" name="cid00191"/><!-- LATIN CAPITAL LETTER A WITH MACRON -->
+      <map code="0x101" name="cid00192"/><!-- LATIN SMALL LETTER A WITH MACRON -->
+      <map code="0x102" name="cid00193"/><!-- LATIN CAPITAL LETTER A WITH BREVE -->
+      <map code="0x103" name="cid00194"/><!-- LATIN SMALL LETTER A WITH BREVE -->
+      <map code="0x110" name="cid00195"/><!-- LATIN CAPITAL LETTER D WITH STROKE -->
+      <map code="0x111" name="cid00196"/><!-- LATIN SMALL LETTER D WITH STROKE -->
+      <map code="0x112" name="cid00197"/><!-- LATIN CAPITAL LETTER E WITH MACRON -->
+      <map code="0x113" name="cid00198"/><!-- LATIN SMALL LETTER E WITH MACRON -->
+      <map code="0x11a" name="cid00199"/><!-- LATIN CAPITAL LETTER E WITH CARON -->
+      <map code="0x11b" name="cid00200"/><!-- LATIN SMALL LETTER E WITH CARON -->
+      <map code="0x128" name="cid00201"/><!-- LATIN CAPITAL LETTER I WITH TILDE -->
+      <map code="0x129" name="cid00202"/><!-- LATIN SMALL LETTER I WITH TILDE -->
+      <map code="0x12a" name="cid00203"/><!-- LATIN CAPITAL LETTER I WITH MACRON -->
+      <map code="0x12b" name="cid00204"/><!-- LATIN SMALL LETTER I WITH MACRON -->
+      <map code="0x143" name="cid00205"/><!-- LATIN CAPITAL LETTER N WITH ACUTE -->
+      <map code="0x144" name="cid00206"/><!-- LATIN SMALL LETTER N WITH ACUTE -->
+      <map code="0x147" name="cid00207"/><!-- LATIN CAPITAL LETTER N WITH CARON -->
+      <map code="0x148" name="cid00208"/><!-- LATIN SMALL LETTER N WITH CARON -->
+      <map code="0x14c" name="cid00209"/><!-- LATIN CAPITAL LETTER O WITH MACRON -->
+      <map code="0x14d" name="cid00210"/><!-- LATIN SMALL LETTER O WITH MACRON -->
+      <map code="0x14e" name="cid00211"/><!-- LATIN CAPITAL LETTER O WITH BREVE -->
+      <map code="0x14f" name="cid00212"/><!-- LATIN SMALL LETTER O WITH BREVE -->
+      <map code="0x152" name="cid00213"/><!-- LATIN CAPITAL LIGATURE OE -->
+      <map code="0x153" name="cid00214"/><!-- LATIN SMALL LIGATURE OE -->
+      <map code="0x168" name="cid00215"/><!-- LATIN CAPITAL LETTER U WITH TILDE -->
+      <map code="0x169" name="cid00216"/><!-- LATIN SMALL LETTER U WITH TILDE -->
+      <map code="0x16a" name="cid00217"/><!-- LATIN CAPITAL LETTER U WITH MACRON -->
+      <map code="0x16b" name="cid00218"/><!-- LATIN SMALL LETTER U WITH MACRON -->
+      <map code="0x16c" name="cid00219"/><!-- LATIN CAPITAL LETTER U WITH BREVE -->
+      <map code="0x16d" name="cid00220"/><!-- LATIN SMALL LETTER U WITH BREVE -->
+      <map code="0x192" name="cid00221"/><!-- LATIN SMALL LETTER F WITH HOOK -->
+      <map code="0x1a0" name="cid00222"/><!-- LATIN CAPITAL LETTER O WITH HORN -->
+      <map code="0x1a1" name="cid00223"/><!-- LATIN SMALL LETTER O WITH HORN -->
+      <map code="0x1af" name="cid00224"/><!-- LATIN CAPITAL LETTER U WITH HORN -->
+      <map code="0x1b0" name="cid00225"/><!-- LATIN SMALL LETTER U WITH HORN -->
+      <map code="0x1cd" name="cid00226"/><!-- LATIN CAPITAL LETTER A WITH CARON -->
+      <map code="0x1ce" name="cid00227"/><!-- LATIN SMALL LETTER A WITH CARON -->
+      <map code="0x1cf" name="cid00228"/><!-- LATIN CAPITAL LETTER I WITH CARON -->
+      <map code="0x1d0" name="cid00229"/><!-- LATIN SMALL LETTER I WITH CARON -->
+      <map code="0x1d1" name="cid00230"/><!-- LATIN CAPITAL LETTER O WITH CARON -->
+      <map code="0x1d2" name="cid00231"/><!-- LATIN SMALL LETTER O WITH CARON -->
+      <map code="0x1d3" name="cid00232"/><!-- LATIN CAPITAL LETTER U WITH CARON -->
+      <map code="0x1d4" name="cid00233"/><!-- LATIN SMALL LETTER U WITH CARON -->
+      <map code="0x1d5" name="cid00234"/><!-- LATIN CAPITAL LETTER U WITH DIAERESIS AND MACRON -->
+      <map code="0x1d6" name="cid00235"/><!-- LATIN SMALL LETTER U WITH DIAERESIS AND MACRON -->
+      <map code="0x1d7" name="cid00236"/><!-- LATIN CAPITAL LETTER U WITH DIAERESIS AND ACUTE -->
+      <map code="0x1d8" name="cid00237"/><!-- LATIN SMALL LETTER U WITH DIAERESIS AND ACUTE -->
+      <map code="0x1d9" name="cid00238"/><!-- LATIN CAPITAL LETTER U WITH DIAERESIS AND CARON -->
+      <map code="0x1da" name="cid00239"/><!-- LATIN SMALL LETTER U WITH DIAERESIS AND CARON -->
+      <map code="0x1db" name="cid00240"/><!-- LATIN CAPITAL LETTER U WITH DIAERESIS AND GRAVE -->
+      <map code="0x1dc" name="cid00241"/><!-- LATIN SMALL LETTER U WITH DIAERESIS AND GRAVE -->
+      <map code="0x1f8" name="cid00242"/><!-- LATIN CAPITAL LETTER N WITH GRAVE -->
+      <map code="0x1f9" name="cid00243"/><!-- LATIN SMALL LETTER N WITH GRAVE -->
+      <map code="0x251" name="cid00244"/><!-- LATIN SMALL LETTER ALPHA -->
+      <map code="0x261" name="cid00245"/><!-- LATIN SMALL LETTER SCRIPT G -->
+      <map code="0x2c7" name="cid00246"/><!-- CARON -->
+      <map code="0x2c9" name="cid00247"/><!-- MODIFIER LETTER MACRON -->
+      <map code="0x2ca" name="cid00248"/><!-- MODIFIER LETTER ACUTE ACCENT -->
+      <map code="0x2cb" name="cid00249"/><!-- MODIFIER LETTER GRAVE ACCENT -->
+      <map code="0x2d9" name="cid00250"/><!-- DOT ABOVE -->
+      <map code="0x391" name="cid00251"/><!-- GREEK CAPITAL LETTER ALPHA -->
+      <map code="0x392" name="cid00252"/><!-- GREEK CAPITAL LETTER BETA -->
+      <map code="0x393" name="cid00253"/><!-- GREEK CAPITAL LETTER GAMMA -->
+      <map code="0x394" name="cid00254"/><!-- GREEK CAPITAL LETTER DELTA -->
+      <map code="0x395" name="cid00255"/><!-- GREEK CAPITAL LETTER EPSILON -->
+      <map code="0x396" name="cid00256"/><!-- GREEK CAPITAL LETTER ZETA -->
+      <map code="0x397" name="cid00257"/><!-- GREEK CAPITAL LETTER ETA -->
+      <map code="0x398" name="cid00258"/><!-- GREEK CAPITAL LETTER THETA -->
+      <map code="0x399" name="cid00259"/><!-- GREEK CAPITAL LETTER IOTA -->
+      <map code="0x39a" name="cid00260"/><!-- GREEK CAPITAL LETTER KAPPA -->
+      <map code="0x39b" name="cid00261"/><!-- GREEK CAPITAL LETTER LAMDA -->
+      <map code="0x39c" name="cid00262"/><!-- GREEK CAPITAL LETTER MU -->
+      <map code="0x39d" name="cid00263"/><!-- GREEK CAPITAL LETTER NU -->
+      <map code="0x39e" name="cid00264"/><!-- GREEK CAPITAL LETTER XI -->
+      <map code="0x39f" name="cid00265"/><!-- GREEK CAPITAL LETTER OMICRON -->
+      <map code="0x3a0" name="cid00266"/><!-- GREEK CAPITAL LETTER PI -->
+      <map code="0x3a1" name="cid00267"/><!-- GREEK CAPITAL LETTER RHO -->
+      <map code="0x3a3" name="cid00268"/><!-- GREEK CAPITAL LETTER SIGMA -->
+      <map code="0x3a4" name="cid00269"/><!-- GREEK CAPITAL LETTER TAU -->
+      <map code="0x3a5" name="cid00270"/><!-- GREEK CAPITAL LETTER UPSILON -->
+      <map code="0x3a6" name="cid00271"/><!-- GREEK CAPITAL LETTER PHI -->
+      <map code="0x3a7" name="cid00272"/><!-- GREEK CAPITAL LETTER CHI -->
+      <map code="0x3a8" name="cid00273"/><!-- GREEK CAPITAL LETTER PSI -->
+      <map code="0x3a9" name="cid00274"/><!-- GREEK CAPITAL LETTER OMEGA -->
+      <map code="0x3b1" name="cid00275"/><!-- GREEK SMALL LETTER ALPHA -->
+      <map code="0x3b2" name="cid00276"/><!-- GREEK SMALL LETTER BETA -->
+      <map code="0x3b3" name="cid00277"/><!-- GREEK SMALL LETTER GAMMA -->
+      <map code="0x3b4" name="cid00278"/><!-- GREEK SMALL LETTER DELTA -->
+      <map code="0x3b5" name="cid00279"/><!-- GREEK SMALL LETTER EPSILON -->
+      <map code="0x3b6" name="cid00280"/><!-- GREEK SMALL LETTER ZETA -->
+      <map code="0x3b7" name="cid00281"/><!-- GREEK SMALL LETTER ETA -->
+      <map code="0x3b8" name="cid00282"/><!-- GREEK SMALL LETTER THETA -->
+      <map code="0x3b9" name="cid00283"/><!-- GREEK SMALL LETTER IOTA -->
+      <map code="0x3ba" name="cid00284"/><!-- GREEK SMALL LETTER KAPPA -->
+      <map code="0x3bb" name="cid00285"/><!-- GREEK SMALL LETTER LAMDA -->
+      <map code="0x3bc" name="cid00286"/><!-- GREEK SMALL LETTER MU -->
+      <map code="0x3bd" name="cid00287"/><!-- GREEK SMALL LETTER NU -->
+      <map code="0x3be" name="cid00288"/><!-- GREEK SMALL LETTER XI -->
+      <map code="0x3bf" name="cid00289"/><!-- GREEK SMALL LETTER OMICRON -->
+      <map code="0x3c0" name="cid00290"/><!-- GREEK SMALL LETTER PI -->
+      <map code="0x3c1" name="cid00291"/><!-- GREEK SMALL LETTER RHO -->
+      <map code="0x3c3" name="cid00292"/><!-- GREEK SMALL LETTER SIGMA -->
+      <map code="0x3c4" name="cid00293"/><!-- GREEK SMALL LETTER TAU -->
+      <map code="0x3c5" name="cid00294"/><!-- GREEK SMALL LETTER UPSILON -->
+      <map code="0x3c6" name="cid00295"/><!-- GREEK SMALL LETTER PHI -->
+      <map code="0x3c7" name="cid00296"/><!-- GREEK SMALL LETTER CHI -->
+      <map code="0x3c8" name="cid00297"/><!-- GREEK SMALL LETTER PSI -->
+      <map code="0x3c9" name="cid00298"/><!-- GREEK SMALL LETTER OMEGA -->
+      <map code="0x401" name="cid00299"/><!-- CYRILLIC CAPITAL LETTER IO -->
+      <map code="0x410" name="cid00300"/><!-- CYRILLIC CAPITAL LETTER A -->
+      <map code="0x411" name="cid00301"/><!-- CYRILLIC CAPITAL LETTER BE -->
+      <map code="0x412" name="cid00302"/><!-- CYRILLIC CAPITAL LETTER VE -->
+      <map code="0x413" name="cid00303"/><!-- CYRILLIC CAPITAL LETTER GHE -->
+      <map code="0x414" name="cid00304"/><!-- CYRILLIC CAPITAL LETTER DE -->
+      <map code="0x415" name="cid00305"/><!-- CYRILLIC CAPITAL LETTER IE -->
+      <map code="0x416" name="cid00306"/><!-- CYRILLIC CAPITAL LETTER ZHE -->
+      <map code="0x417" name="cid00307"/><!-- CYRILLIC CAPITAL LETTER ZE -->
+      <map code="0x418" name="cid00308"/><!-- CYRILLIC CAPITAL LETTER I -->
+      <map code="0x419" name="cid00309"/><!-- CYRILLIC CAPITAL LETTER SHORT I -->
+      <map code="0x41a" name="cid00310"/><!-- CYRILLIC CAPITAL LETTER KA -->
+      <map code="0x41b" name="cid00311"/><!-- CYRILLIC CAPITAL LETTER EL -->
+      <map code="0x41c" name="cid00312"/><!-- CYRILLIC CAPITAL LETTER EM -->
+      <map code="0x41d" name="cid00313"/><!-- CYRILLIC CAPITAL LETTER EN -->
+      <map code="0x41e" name="cid00314"/><!-- CYRILLIC CAPITAL LETTER O -->
+      <map code="0x41f" name="cid00315"/><!-- CYRILLIC CAPITAL LETTER PE -->
+      <map code="0x420" name="cid00316"/><!-- CYRILLIC CAPITAL LETTER ER -->
+      <map code="0x421" name="cid00317"/><!-- CYRILLIC CAPITAL LETTER ES -->
+      <map code="0x422" name="cid00318"/><!-- CYRILLIC CAPITAL LETTER TE -->
+      <map code="0x423" name="cid00319"/><!-- CYRILLIC CAPITAL LETTER U -->
+      <map code="0x424" name="cid00320"/><!-- CYRILLIC CAPITAL LETTER EF -->
+      <map code="0x425" name="cid00321"/><!-- CYRILLIC CAPITAL LETTER HA -->
+      <map code="0x426" name="cid00322"/><!-- CYRILLIC CAPITAL LETTER TSE -->
+      <map code="0x427" name="cid00323"/><!-- CYRILLIC CAPITAL LETTER CHE -->
+      <map code="0x428" name="cid00324"/><!-- CYRILLIC CAPITAL LETTER SHA -->
+      <map code="0x429" name="cid00325"/><!-- CYRILLIC CAPITAL LETTER SHCHA -->
+      <map code="0x42a" name="cid00326"/><!-- CYRILLIC CAPITAL LETTER HARD SIGN -->
+      <map code="0x42b" name="cid00327"/><!-- CYRILLIC CAPITAL LETTER YERU -->
+      <map code="0x42c" name="cid00328"/><!-- CYRILLIC CAPITAL LETTER SOFT SIGN -->
+      <map code="0x42d" name="cid00329"/><!-- CYRILLIC CAPITAL LETTER E -->
+      <map code="0x42e" name="cid00330"/><!-- CYRILLIC CAPITAL LETTER YU -->
+      <map code="0x42f" name="cid00331"/><!-- CYRILLIC CAPITAL LETTER YA -->
+      <map code="0x430" name="cid00332"/><!-- CYRILLIC SMALL LETTER A -->
+      <map code="0x431" name="cid00333"/><!-- CYRILLIC SMALL LETTER BE -->
+      <map code="0x432" name="cid00334"/><!-- CYRILLIC SMALL LETTER VE -->
+      <map code="0x433" name="cid00335"/><!-- CYRILLIC SMALL LETTER GHE -->
+      <map code="0x434" name="cid00336"/><!-- CYRILLIC SMALL LETTER DE -->
+      <map code="0x435" name="cid00337"/><!-- CYRILLIC SMALL LETTER IE -->
+      <map code="0x436" name="cid00338"/><!-- CYRILLIC SMALL LETTER ZHE -->
+      <map code="0x437" name="cid00339"/><!-- CYRILLIC SMALL LETTER ZE -->
+      <map code="0x438" name="cid00340"/><!-- CYRILLIC SMALL LETTER I -->
+      <map code="0x439" name="cid00341"/><!-- CYRILLIC SMALL LETTER SHORT I -->
+      <map code="0x43a" name="cid00342"/><!-- CYRILLIC SMALL LETTER KA -->
+      <map code="0x43b" name="cid00343"/><!-- CYRILLIC SMALL LETTER EL -->
+      <map code="0x43c" name="cid00344"/><!-- CYRILLIC SMALL LETTER EM -->
+      <map code="0x43d" name="cid00345"/><!-- CYRILLIC SMALL LETTER EN -->
+      <map code="0x43e" name="cid00346"/><!-- CYRILLIC SMALL LETTER O -->
+      <map code="0x43f" name="cid00347"/><!-- CYRILLIC SMALL LETTER PE -->
+      <map code="0x440" name="cid00348"/><!-- CYRILLIC SMALL LETTER ER -->
+      <map code="0x441" name="cid00349"/><!-- CYRILLIC SMALL LETTER ES -->
+      <map code="0x442" name="cid00350"/><!-- CYRILLIC SMALL LETTER TE -->
+      <map code="0x443" name="cid00351"/><!-- CYRILLIC SMALL LETTER U -->
+      <map code="0x444" name="cid00352"/><!-- CYRILLIC SMALL LETTER EF -->
+      <map code="0x445" name="cid00353"/><!-- CYRILLIC SMALL LETTER HA -->
+      <map code="0x446" name="cid00354"/><!-- CYRILLIC SMALL LETTER TSE -->
+      <map code="0x447" name="cid00355"/><!-- CYRILLIC SMALL LETTER CHE -->
+      <map code="0x448" name="cid00356"/><!-- CYRILLIC SMALL LETTER SHA -->
+      <map code="0x449" name="cid00357"/><!-- CYRILLIC SMALL LETTER SHCHA -->
+      <map code="0x44a" name="cid00358"/><!-- CYRILLIC SMALL LETTER HARD SIGN -->
+      <map code="0x44b" name="cid00359"/><!-- CYRILLIC SMALL LETTER YERU -->
+      <map code="0x44c" name="cid00360"/><!-- CYRILLIC SMALL LETTER SOFT SIGN -->
+      <map code="0x44d" name="cid00361"/><!-- CYRILLIC SMALL LETTER E -->
+      <map code="0x44e" name="cid00362"/><!-- CYRILLIC SMALL LETTER YU -->
+      <map code="0x44f" name="cid00363"/><!-- CYRILLIC SMALL LETTER YA -->
+      <map code="0x451" name="cid00364"/><!-- CYRILLIC SMALL LETTER IO -->
+    </cmap_format_12>
+    <cmap_format_6 platformID="1" platEncID="1" language="0">
+      <map code="0x0" name=".notdef"/>
+    </cmap_format_6>
+    <cmap_format_4 platformID="3" platEncID="1" language="0">
+      <map code="0x0" name="cid00001"/><!-- ???? -->
+      <map code="0x1" name="cid00001"/><!-- ???? -->
+      <map code="0x2" name="cid00001"/><!-- ???? -->
+      <map code="0x3" name="cid00001"/><!-- ???? -->
+      <map code="0x4" name="cid00001"/><!-- ???? -->
+      <map code="0x5" name="cid00001"/><!-- ???? -->
+      <map code="0x6" name="cid00001"/><!-- ???? -->
+      <map code="0x7" name="cid00001"/><!-- ???? -->
+      <map code="0x8" name="cid00001"/><!-- ???? -->
+      <map code="0x9" name="cid00001"/><!-- ???? -->
+      <map code="0xa" name="cid00001"/><!-- ???? -->
+      <map code="0xb" name="cid00001"/><!-- ???? -->
+      <map code="0xc" name="cid00001"/><!-- ???? -->
+      <map code="0xd" name="cid00001"/><!-- ???? -->
+      <map code="0xe" name="cid00001"/><!-- ???? -->
+      <map code="0xf" name="cid00001"/><!-- ???? -->
+      <map code="0x10" name="cid00001"/><!-- ???? -->
+      <map code="0x11" name="cid00001"/><!-- ???? -->
+      <map code="0x12" name="cid00001"/><!-- ???? -->
+      <map code="0x13" name="cid00001"/><!-- ???? -->
+      <map code="0x14" name="cid00001"/><!-- ???? -->
+      <map code="0x15" name="cid00001"/><!-- ???? -->
+      <map code="0x16" name="cid00001"/><!-- ???? -->
+      <map code="0x17" name="cid00001"/><!-- ???? -->
+      <map code="0x18" name="cid00001"/><!-- ???? -->
+      <map code="0x19" name="cid00001"/><!-- ???? -->
+      <map code="0x1a" name="cid00001"/><!-- ???? -->
+      <map code="0x1b" name="cid00001"/><!-- ???? -->
+      <map code="0x1c" name="cid00001"/><!-- ???? -->
+      <map code="0x1d" name="cid00001"/><!-- ???? -->
+      <map code="0x1e" name="cid00001"/><!-- ???? -->
+      <map code="0x1f" name="cid00001"/><!-- ???? -->
+      <map code="0x20" name="cid00001"/><!-- SPACE -->
+      <map code="0x21" name="cid00002"/><!-- EXCLAMATION MARK -->
+      <map code="0x22" name="cid00003"/><!-- QUOTATION MARK -->
+      <map code="0x23" name="cid00004"/><!-- NUMBER SIGN -->
+      <map code="0x24" name="cid00005"/><!-- DOLLAR SIGN -->
+      <map code="0x25" name="cid00006"/><!-- PERCENT SIGN -->
+      <map code="0x26" name="cid00007"/><!-- AMPERSAND -->
+      <map code="0x27" name="cid00008"/><!-- APOSTROPHE -->
+      <map code="0x28" name="cid00009"/><!-- LEFT PARENTHESIS -->
+      <map code="0x29" name="cid00010"/><!-- RIGHT PARENTHESIS -->
+      <map code="0x2a" name="cid00011"/><!-- ASTERISK -->
+      <map code="0x2b" name="cid00012"/><!-- PLUS SIGN -->
+      <map code="0x2c" name="cid00013"/><!-- COMMA -->
+      <map code="0x2d" name="cid00014"/><!-- HYPHEN-MINUS -->
+      <map code="0x2e" name="cid00015"/><!-- FULL STOP -->
+      <map code="0x2f" name="cid00016"/><!-- SOLIDUS -->
+      <map code="0x30" name="cid00017"/><!-- DIGIT ZERO -->
+      <map code="0x31" name="cid00018"/><!-- DIGIT ONE -->
+      <map code="0x32" name="cid00019"/><!-- DIGIT TWO -->
+      <map code="0x33" name="cid00020"/><!-- DIGIT THREE -->
+      <map code="0x34" name="cid00021"/><!-- DIGIT FOUR -->
+      <map code="0x35" name="cid00022"/><!-- DIGIT FIVE -->
+      <map code="0x36" name="cid00023"/><!-- DIGIT SIX -->
+      <map code="0x37" name="cid00024"/><!-- DIGIT SEVEN -->
+      <map code="0x38" name="cid00025"/><!-- DIGIT EIGHT -->
+      <map code="0x39" name="cid00026"/><!-- DIGIT NINE -->
+      <map code="0x3a" name="cid00027"/><!-- COLON -->
+      <map code="0x3b" name="cid00028"/><!-- SEMICOLON -->
+      <map code="0x3c" name="cid00029"/><!-- LESS-THAN SIGN -->
+      <map code="0x3d" name="cid00030"/><!-- EQUALS SIGN -->
+      <map code="0x3e" name="cid00031"/><!-- GREATER-THAN SIGN -->
+      <map code="0x3f" name="cid00032"/><!-- QUESTION MARK -->
+      <map code="0x40" name="cid00033"/><!-- COMMERCIAL AT -->
+      <map code="0x41" name="cid00034"/><!-- LATIN CAPITAL LETTER A -->
+      <map code="0x42" name="cid00035"/><!-- LATIN CAPITAL LETTER B -->
+      <map code="0x43" name="cid00036"/><!-- LATIN CAPITAL LETTER C -->
+      <map code="0x44" name="cid00037"/><!-- LATIN CAPITAL LETTER D -->
+      <map code="0x45" name="cid00038"/><!-- LATIN CAPITAL LETTER E -->
+      <map code="0x46" name="cid00039"/><!-- LATIN CAPITAL LETTER F -->
+      <map code="0x47" name="cid00040"/><!-- LATIN CAPITAL LETTER G -->
+      <map code="0x48" name="cid00041"/><!-- LATIN CAPITAL LETTER H -->
+      <map code="0x49" name="cid00042"/><!-- LATIN CAPITAL LETTER I -->
+      <map code="0x4a" name="cid00043"/><!-- LATIN CAPITAL LETTER J -->
+      <map code="0x4b" name="cid00044"/><!-- LATIN CAPITAL LETTER K -->
+      <map code="0x4c" name="cid00045"/><!-- LATIN CAPITAL LETTER L -->
+      <map code="0x4d" name="cid00046"/><!-- LATIN CAPITAL LETTER M -->
+      <map code="0x4e" name="cid00047"/><!-- LATIN CAPITAL LETTER N -->
+      <map code="0x4f" name="cid00048"/><!-- LATIN CAPITAL LETTER O -->
+      <map code="0x50" name="cid00049"/><!-- LATIN CAPITAL LETTER P -->
+      <map code="0x51" name="cid00050"/><!-- LATIN CAPITAL LETTER Q -->
+      <map code="0x52" name="cid00051"/><!-- LATIN CAPITAL LETTER R -->
+      <map code="0x53" name="cid00052"/><!-- LATIN CAPITAL LETTER S -->
+      <map code="0x54" name="cid00053"/><!-- LATIN CAPITAL LETTER T -->
+      <map code="0x55" name="cid00054"/><!-- LATIN CAPITAL LETTER U -->
+      <map code="0x56" name="cid00055"/><!-- LATIN CAPITAL LETTER V -->
+      <map code="0x57" name="cid00056"/><!-- LATIN CAPITAL LETTER W -->
+      <map code="0x58" name="cid00057"/><!-- LATIN CAPITAL LETTER X -->
+      <map code="0x59" name="cid00058"/><!-- LATIN CAPITAL LETTER Y -->
+      <map code="0x5a" name="cid00059"/><!-- LATIN CAPITAL LETTER Z -->
+      <map code="0x5b" name="cid00060"/><!-- LEFT SQUARE BRACKET -->
+      <map code="0x5c" name="cid00061"/><!-- REVERSE SOLIDUS -->
+      <map code="0x5d" name="cid00062"/><!-- RIGHT SQUARE BRACKET -->
+      <map code="0x5e" name="cid00063"/><!-- CIRCUMFLEX ACCENT -->
+      <map code="0x5f" name="cid00064"/><!-- LOW LINE -->
+      <map code="0x60" name="cid00065"/><!-- GRAVE ACCENT -->
+      <map code="0x61" name="cid00066"/><!-- LATIN SMALL LETTER A -->
+      <map code="0x62" name="cid00067"/><!-- LATIN SMALL LETTER B -->
+      <map code="0x63" name="cid00068"/><!-- LATIN SMALL LETTER C -->
+      <map code="0x64" name="cid00069"/><!-- LATIN SMALL LETTER D -->
+      <map code="0x65" name="cid00070"/><!-- LATIN SMALL LETTER E -->
+      <map code="0x66" name="cid00071"/><!-- LATIN SMALL LETTER F -->
+      <map code="0x67" name="cid00072"/><!-- LATIN SMALL LETTER G -->
+      <map code="0x68" name="cid00073"/><!-- LATIN SMALL LETTER H -->
+      <map code="0x69" name="cid00074"/><!-- LATIN SMALL LETTER I -->
+      <map code="0x6a" name="cid00075"/><!-- LATIN SMALL LETTER J -->
+      <map code="0x6b" name="cid00076"/><!-- LATIN SMALL LETTER K -->
+      <map code="0x6c" name="cid00077"/><!-- LATIN SMALL LETTER L -->
+      <map code="0x6d" name="cid00078"/><!-- LATIN SMALL LETTER M -->
+      <map code="0x6e" name="cid00079"/><!-- LATIN SMALL LETTER N -->
+      <map code="0x6f" name="cid00080"/><!-- LATIN SMALL LETTER O -->
+      <map code="0x70" name="cid00081"/><!-- LATIN SMALL LETTER P -->
+      <map code="0x71" name="cid00082"/><!-- LATIN SMALL LETTER Q -->
+      <map code="0x72" name="cid00083"/><!-- LATIN SMALL LETTER R -->
+      <map code="0x73" name="cid00084"/><!-- LATIN SMALL LETTER S -->
+      <map code="0x74" name="cid00085"/><!-- LATIN SMALL LETTER T -->
+      <map code="0x75" name="cid00086"/><!-- LATIN SMALL LETTER U -->
+      <map code="0x76" name="cid00087"/><!-- LATIN SMALL LETTER V -->
+      <map code="0x77" name="cid00088"/><!-- LATIN SMALL LETTER W -->
+      <map code="0x78" name="cid00089"/><!-- LATIN SMALL LETTER X -->
+      <map code="0x79" name="cid00090"/><!-- LATIN SMALL LETTER Y -->
+      <map code="0x7a" name="cid00091"/><!-- LATIN SMALL LETTER Z -->
+      <map code="0x7b" name="cid00092"/><!-- LEFT CURLY BRACKET -->
+      <map code="0x7c" name="cid00093"/><!-- VERTICAL LINE -->
+      <map code="0x7d" name="cid00094"/><!-- RIGHT CURLY BRACKET -->
+      <map code="0x7e" name="cid00095"/><!-- TILDE -->
+      <map code="0xa0" name="cid00001"/><!-- NO-BREAK SPACE -->
+      <map code="0xa1" name="cid00096"/><!-- INVERTED EXCLAMATION MARK -->
+      <map code="0xa2" name="cid00097"/><!-- CENT SIGN -->
+      <map code="0xa3" name="cid00098"/><!-- POUND SIGN -->
+      <map code="0xa4" name="cid00099"/><!-- CURRENCY SIGN -->
+      <map code="0xa5" name="cid00100"/><!-- YEN SIGN -->
+      <map code="0xa6" name="cid00101"/><!-- BROKEN BAR -->
+      <map code="0xa7" name="cid00102"/><!-- SECTION SIGN -->
+      <map code="0xa8" name="cid00103"/><!-- DIAERESIS -->
+      <map code="0xa9" name="cid00104"/><!-- COPYRIGHT SIGN -->
+      <map code="0xaa" name="cid00105"/><!-- FEMININE ORDINAL INDICATOR -->
+      <map code="0xab" name="cid00106"/><!-- LEFT-POINTING DOUBLE ANGLE QUOTATION MARK -->
+      <map code="0xac" name="cid00107"/><!-- NOT SIGN -->
+      <map code="0xad" name="cid00108"/><!-- SOFT HYPHEN -->
+      <map code="0xae" name="cid00109"/><!-- REGISTERED SIGN -->
+      <map code="0xaf" name="cid00110"/><!-- MACRON -->
+      <map code="0xb0" name="cid00111"/><!-- DEGREE SIGN -->
+      <map code="0xb1" name="cid00112"/><!-- PLUS-MINUS SIGN -->
+      <map code="0xb2" name="cid00113"/><!-- SUPERSCRIPT TWO -->
+      <map code="0xb3" name="cid00114"/><!-- SUPERSCRIPT THREE -->
+      <map code="0xb4" name="cid00115"/><!-- ACUTE ACCENT -->
+      <map code="0xb5" name="cid00116"/><!-- MICRO SIGN -->
+      <map code="0xb6" name="cid00117"/><!-- PILCROW SIGN -->
+      <map code="0xb7" name="cid00118"/><!-- MIDDLE DOT -->
+      <map code="0xb8" name="cid00119"/><!-- CEDILLA -->
+      <map code="0xb9" name="cid00120"/><!-- SUPERSCRIPT ONE -->
+      <map code="0xba" name="cid00121"/><!-- MASCULINE ORDINAL INDICATOR -->
+      <map code="0xbb" name="cid00122"/><!-- RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK -->
+      <map code="0xbc" name="cid00123"/><!-- VULGAR FRACTION ONE QUARTER -->
+      <map code="0xbd" name="cid00124"/><!-- VULGAR FRACTION ONE HALF -->
+      <map code="0xbe" name="cid00125"/><!-- VULGAR FRACTION THREE QUARTERS -->
+      <map code="0xbf" name="cid00126"/><!-- INVERTED QUESTION MARK -->
+      <map code="0xc0" name="cid00127"/><!-- LATIN CAPITAL LETTER A WITH GRAVE -->
+      <map code="0xc1" name="cid00128"/><!-- LATIN CAPITAL LETTER A WITH ACUTE -->
+      <map code="0xc2" name="cid00129"/><!-- LATIN CAPITAL LETTER A WITH CIRCUMFLEX -->
+      <map code="0xc3" name="cid00130"/><!-- LATIN CAPITAL LETTER A WITH TILDE -->
+      <map code="0xc4" name="cid00131"/><!-- LATIN CAPITAL LETTER A WITH DIAERESIS -->
+      <map code="0xc5" name="cid00132"/><!-- LATIN CAPITAL LETTER A WITH RING ABOVE -->
+      <map code="0xc6" name="cid00133"/><!-- LATIN CAPITAL LETTER AE -->
+      <map code="0xc7" name="cid00134"/><!-- LATIN CAPITAL LETTER C WITH CEDILLA -->
+      <map code="0xc8" name="cid00135"/><!-- LATIN CAPITAL LETTER E WITH GRAVE -->
+      <map code="0xc9" name="cid00136"/><!-- LATIN CAPITAL LETTER E WITH ACUTE -->
+      <map code="0xca" name="cid00137"/><!-- LATIN CAPITAL LETTER E WITH CIRCUMFLEX -->
+      <map code="0xcb" name="cid00138"/><!-- LATIN CAPITAL LETTER E WITH DIAERESIS -->
+      <map code="0xcc" name="cid00139"/><!-- LATIN CAPITAL LETTER I WITH GRAVE -->
+      <map code="0xcd" name="cid00140"/><!-- LATIN CAPITAL LETTER I WITH ACUTE -->
+      <map code="0xce" name="cid00141"/><!-- LATIN CAPITAL LETTER I WITH CIRCUMFLEX -->
+      <map code="0xcf" name="cid00142"/><!-- LATIN CAPITAL LETTER I WITH DIAERESIS -->
+      <map code="0xd0" name="cid00143"/><!-- LATIN CAPITAL LETTER ETH -->
+      <map code="0xd1" name="cid00144"/><!-- LATIN CAPITAL LETTER N WITH TILDE -->
+      <map code="0xd2" name="cid00145"/><!-- LATIN CAPITAL LETTER O WITH GRAVE -->
+      <map code="0xd3" name="cid00146"/><!-- LATIN CAPITAL LETTER O WITH ACUTE -->
+      <map code="0xd4" name="cid00147"/><!-- LATIN CAPITAL LETTER O WITH CIRCUMFLEX -->
+      <map code="0xd5" name="cid00148"/><!-- LATIN CAPITAL LETTER O WITH TILDE -->
+      <map code="0xd6" name="cid00149"/><!-- LATIN CAPITAL LETTER O WITH DIAERESIS -->
+      <map code="0xd7" name="cid00150"/><!-- MULTIPLICATION SIGN -->
+      <map code="0xd8" name="cid00151"/><!-- LATIN CAPITAL LETTER O WITH STROKE -->
+      <map code="0xd9" name="cid00152"/><!-- LATIN CAPITAL LETTER U WITH GRAVE -->
+      <map code="0xda" name="cid00153"/><!-- LATIN CAPITAL LETTER U WITH ACUTE -->
+      <map code="0xdb" name="cid00154"/><!-- LATIN CAPITAL LETTER U WITH CIRCUMFLEX -->
+      <map code="0xdc" name="cid00155"/><!-- LATIN CAPITAL LETTER U WITH DIAERESIS -->
+      <map code="0xdd" name="cid00156"/><!-- LATIN CAPITAL LETTER Y WITH ACUTE -->
+      <map code="0xde" name="cid00157"/><!-- LATIN CAPITAL LETTER THORN -->
+      <map code="0xdf" name="cid00158"/><!-- LATIN SMALL LETTER SHARP S -->
+      <map code="0xe0" name="cid00159"/><!-- LATIN SMALL LETTER A WITH GRAVE -->
+      <map code="0xe1" name="cid00160"/><!-- LATIN SMALL LETTER A WITH ACUTE -->
+      <map code="0xe2" name="cid00161"/><!-- LATIN SMALL LETTER A WITH CIRCUMFLEX -->
+      <map code="0xe3" name="cid00162"/><!-- LATIN SMALL LETTER A WITH TILDE -->
+      <map code="0xe4" name="cid00163"/><!-- LATIN SMALL LETTER A WITH DIAERESIS -->
+      <map code="0xe5" name="cid00164"/><!-- LATIN SMALL LETTER A WITH RING ABOVE -->
+      <map code="0xe6" name="cid00165"/><!-- LATIN SMALL LETTER AE -->
+      <map code="0xe7" name="cid00166"/><!-- LATIN SMALL LETTER C WITH CEDILLA -->
+      <map code="0xe8" name="cid00167"/><!-- LATIN SMALL LETTER E WITH GRAVE -->
+      <map code="0xe9" name="cid00168"/><!-- LATIN SMALL LETTER E WITH ACUTE -->
+      <map code="0xea" name="cid00169"/><!-- LATIN SMALL LETTER E WITH CIRCUMFLEX -->
+      <map code="0xeb" name="cid00170"/><!-- LATIN SMALL LETTER E WITH DIAERESIS -->
+      <map code="0xec" name="cid00171"/><!-- LATIN SMALL LETTER I WITH GRAVE -->
+      <map code="0xed" name="cid00172"/><!-- LATIN SMALL LETTER I WITH ACUTE -->
+      <map code="0xee" name="cid00173"/><!-- LATIN SMALL LETTER I WITH CIRCUMFLEX -->
+      <map code="0xef" name="cid00174"/><!-- LATIN SMALL LETTER I WITH DIAERESIS -->
+      <map code="0xf0" name="cid00175"/><!-- LATIN SMALL LETTER ETH -->
+      <map code="0xf1" name="cid00176"/><!-- LATIN SMALL LETTER N WITH TILDE -->
+      <map code="0xf2" name="cid00177"/><!-- LATIN SMALL LETTER O WITH GRAVE -->
+      <map code="0xf3" name="cid00178"/><!-- LATIN SMALL LETTER O WITH ACUTE -->
+      <map code="0xf4" name="cid00179"/><!-- LATIN SMALL LETTER O WITH CIRCUMFLEX -->
+      <map code="0xf5" name="cid00180"/><!-- LATIN SMALL LETTER O WITH TILDE -->
+      <map code="0xf6" name="cid00181"/><!-- LATIN SMALL LETTER O WITH DIAERESIS -->
+      <map code="0xf7" name="cid00182"/><!-- DIVISION SIGN -->
+      <map code="0xf8" name="cid00183"/><!-- LATIN SMALL LETTER O WITH STROKE -->
+      <map code="0xf9" name="cid00184"/><!-- LATIN SMALL LETTER U WITH GRAVE -->
+      <map code="0xfa" name="cid00185"/><!-- LATIN SMALL LETTER U WITH ACUTE -->
+      <map code="0xfb" name="cid00186"/><!-- LATIN SMALL LETTER U WITH CIRCUMFLEX -->
+      <map code="0xfc" name="cid00187"/><!-- LATIN SMALL LETTER U WITH DIAERESIS -->
+      <map code="0xfd" name="cid00188"/><!-- LATIN SMALL LETTER Y WITH ACUTE -->
+      <map code="0xfe" name="cid00189"/><!-- LATIN SMALL LETTER THORN -->
+      <map code="0xff" name="cid00190"/><!-- LATIN SMALL LETTER Y WITH DIAERESIS -->
+      <map code="0x100" name="cid00191"/><!-- LATIN CAPITAL LETTER A WITH MACRON -->
+      <map code="0x101" name="cid00192"/><!-- LATIN SMALL LETTER A WITH MACRON -->
+      <map code="0x102" name="cid00193"/><!-- LATIN CAPITAL LETTER A WITH BREVE -->
+      <map code="0x103" name="cid00194"/><!-- LATIN SMALL LETTER A WITH BREVE -->
+      <map code="0x110" name="cid00195"/><!-- LATIN CAPITAL LETTER D WITH STROKE -->
+      <map code="0x111" name="cid00196"/><!-- LATIN SMALL LETTER D WITH STROKE -->
+      <map code="0x112" name="cid00197"/><!-- LATIN CAPITAL LETTER E WITH MACRON -->
+      <map code="0x113" name="cid00198"/><!-- LATIN SMALL LETTER E WITH MACRON -->
+      <map code="0x11a" name="cid00199"/><!-- LATIN CAPITAL LETTER E WITH CARON -->
+      <map code="0x11b" name="cid00200"/><!-- LATIN SMALL LETTER E WITH CARON -->
+      <map code="0x128" name="cid00201"/><!-- LATIN CAPITAL LETTER I WITH TILDE -->
+      <map code="0x129" name="cid00202"/><!-- LATIN SMALL LETTER I WITH TILDE -->
+      <map code="0x12a" name="cid00203"/><!-- LATIN CAPITAL LETTER I WITH MACRON -->
+      <map code="0x12b" name="cid00204"/><!-- LATIN SMALL LETTER I WITH MACRON -->
+      <map code="0x143" name="cid00205"/><!-- LATIN CAPITAL LETTER N WITH ACUTE -->
+      <map code="0x144" name="cid00206"/><!-- LATIN SMALL LETTER N WITH ACUTE -->
+      <map code="0x147" name="cid00207"/><!-- LATIN CAPITAL LETTER N WITH CARON -->
+      <map code="0x148" name="cid00208"/><!-- LATIN SMALL LETTER N WITH CARON -->
+      <map code="0x14c" name="cid00209"/><!-- LATIN CAPITAL LETTER O WITH MACRON -->
+      <map code="0x14d" name="cid00210"/><!-- LATIN SMALL LETTER O WITH MACRON -->
+      <map code="0x14e" name="cid00211"/><!-- LATIN CAPITAL LETTER O WITH BREVE -->
+      <map code="0x14f" name="cid00212"/><!-- LATIN SMALL LETTER O WITH BREVE -->
+      <map code="0x152" name="cid00213"/><!-- LATIN CAPITAL LIGATURE OE -->
+      <map code="0x153" name="cid00214"/><!-- LATIN SMALL LIGATURE OE -->
+      <map code="0x168" name="cid00215"/><!-- LATIN CAPITAL LETTER U WITH TILDE -->
+      <map code="0x169" name="cid00216"/><!-- LATIN SMALL LETTER U WITH TILDE -->
+      <map code="0x16a" name="cid00217"/><!-- LATIN CAPITAL LETTER U WITH MACRON -->
+      <map code="0x16b" name="cid00218"/><!-- LATIN SMALL LETTER U WITH MACRON -->
+      <map code="0x16c" name="cid00219"/><!-- LATIN CAPITAL LETTER U WITH BREVE -->
+      <map code="0x16d" name="cid00220"/><!-- LATIN SMALL LETTER U WITH BREVE -->
+      <map code="0x192" name="cid00221"/><!-- LATIN SMALL LETTER F WITH HOOK -->
+      <map code="0x1a0" name="cid00222"/><!-- LATIN CAPITAL LETTER O WITH HORN -->
+      <map code="0x1a1" name="cid00223"/><!-- LATIN SMALL LETTER O WITH HORN -->
+      <map code="0x1af" name="cid00224"/><!-- LATIN CAPITAL LETTER U WITH HORN -->
+      <map code="0x1b0" name="cid00225"/><!-- LATIN SMALL LETTER U WITH HORN -->
+      <map code="0x1cd" name="cid00226"/><!-- LATIN CAPITAL LETTER A WITH CARON -->
+      <map code="0x1ce" name="cid00227"/><!-- LATIN SMALL LETTER A WITH CARON -->
+      <map code="0x1cf" name="cid00228"/><!-- LATIN CAPITAL LETTER I WITH CARON -->
+      <map code="0x1d0" name="cid00229"/><!-- LATIN SMALL LETTER I WITH CARON -->
+      <map code="0x1d1" name="cid00230"/><!-- LATIN CAPITAL LETTER O WITH CARON -->
+      <map code="0x1d2" name="cid00231"/><!-- LATIN SMALL LETTER O WITH CARON -->
+      <map code="0x1d3" name="cid00232"/><!-- LATIN CAPITAL LETTER U WITH CARON -->
+      <map code="0x1d4" name="cid00233"/><!-- LATIN SMALL LETTER U WITH CARON -->
+      <map code="0x1d5" name="cid00234"/><!-- LATIN CAPITAL LETTER U WITH DIAERESIS AND MACRON -->
+      <map code="0x1d6" name="cid00235"/><!-- LATIN SMALL LETTER U WITH DIAERESIS AND MACRON -->
+      <map code="0x1d7" name="cid00236"/><!-- LATIN CAPITAL LETTER U WITH DIAERESIS AND ACUTE -->
+      <map code="0x1d8" name="cid00237"/><!-- LATIN SMALL LETTER U WITH DIAERESIS AND ACUTE -->
+      <map code="0x1d9" name="cid00238"/><!-- LATIN CAPITAL LETTER U WITH DIAERESIS AND CARON -->
+      <map code="0x1da" name="cid00239"/><!-- LATIN SMALL LETTER U WITH DIAERESIS AND CARON -->
+      <map code="0x1db" name="cid00240"/><!-- LATIN CAPITAL LETTER U WITH DIAERESIS AND GRAVE -->
+      <map code="0x1dc" name="cid00241"/><!-- LATIN SMALL LETTER U WITH DIAERESIS AND GRAVE -->
+      <map code="0x1f8" name="cid00242"/><!-- LATIN CAPITAL LETTER N WITH GRAVE -->
+      <map code="0x1f9" name="cid00243"/><!-- LATIN SMALL LETTER N WITH GRAVE -->
+      <map code="0x251" name="cid00244"/><!-- LATIN SMALL LETTER ALPHA -->
+      <map code="0x261" name="cid00245"/><!-- LATIN SMALL LETTER SCRIPT G -->
+      <map code="0x2c7" name="cid00246"/><!-- CARON -->
+      <map code="0x2c9" name="cid00247"/><!-- MODIFIER LETTER MACRON -->
+      <map code="0x2ca" name="cid00248"/><!-- MODIFIER LETTER ACUTE ACCENT -->
+      <map code="0x2cb" name="cid00249"/><!-- MODIFIER LETTER GRAVE ACCENT -->
+      <map code="0x2d9" name="cid00250"/><!-- DOT ABOVE -->
+      <map code="0x391" name="cid00251"/><!-- GREEK CAPITAL LETTER ALPHA -->
+      <map code="0x392" name="cid00252"/><!-- GREEK CAPITAL LETTER BETA -->
+      <map code="0x393" name="cid00253"/><!-- GREEK CAPITAL LETTER GAMMA -->
+      <map code="0x394" name="cid00254"/><!-- GREEK CAPITAL LETTER DELTA -->
+      <map code="0x395" name="cid00255"/><!-- GREEK CAPITAL LETTER EPSILON -->
+      <map code="0x396" name="cid00256"/><!-- GREEK CAPITAL LETTER ZETA -->
+      <map code="0x397" name="cid00257"/><!-- GREEK CAPITAL LETTER ETA -->
+      <map code="0x398" name="cid00258"/><!-- GREEK CAPITAL LETTER THETA -->
+      <map code="0x399" name="cid00259"/><!-- GREEK CAPITAL LETTER IOTA -->
+      <map code="0x39a" name="cid00260"/><!-- GREEK CAPITAL LETTER KAPPA -->
+      <map code="0x39b" name="cid00261"/><!-- GREEK CAPITAL LETTER LAMDA -->
+      <map code="0x39c" name="cid00262"/><!-- GREEK CAPITAL LETTER MU -->
+      <map code="0x39d" name="cid00263"/><!-- GREEK CAPITAL LETTER NU -->
+      <map code="0x39e" name="cid00264"/><!-- GREEK CAPITAL LETTER XI -->
+      <map code="0x39f" name="cid00265"/><!-- GREEK CAPITAL LETTER OMICRON -->
+      <map code="0x3a0" name="cid00266"/><!-- GREEK CAPITAL LETTER PI -->
+      <map code="0x3a1" name="cid00267"/><!-- GREEK CAPITAL LETTER RHO -->
+      <map code="0x3a3" name="cid00268"/><!-- GREEK CAPITAL LETTER SIGMA -->
+      <map code="0x3a4" name="cid00269"/><!-- GREEK CAPITAL LETTER TAU -->
+      <map code="0x3a5" name="cid00270"/><!-- GREEK CAPITAL LETTER UPSILON -->
+      <map code="0x3a6" name="cid00271"/><!-- GREEK CAPITAL LETTER PHI -->
+      <map code="0x3a7" name="cid00272"/><!-- GREEK CAPITAL LETTER CHI -->
+      <map code="0x3a8" name="cid00273"/><!-- GREEK CAPITAL LETTER PSI -->
+      <map code="0x3a9" name="cid00274"/><!-- GREEK CAPITAL LETTER OMEGA -->
+      <map code="0x3b1" name="cid00275"/><!-- GREEK SMALL LETTER ALPHA -->
+      <map code="0x3b2" name="cid00276"/><!-- GREEK SMALL LETTER BETA -->
+      <map code="0x3b3" name="cid00277"/><!-- GREEK SMALL LETTER GAMMA -->
+      <map code="0x3b4" name="cid00278"/><!-- GREEK SMALL LETTER DELTA -->
+      <map code="0x3b5" name="cid00279"/><!-- GREEK SMALL LETTER EPSILON -->
+      <map code="0x3b6" name="cid00280"/><!-- GREEK SMALL LETTER ZETA -->
+      <map code="0x3b7" name="cid00281"/><!-- GREEK SMALL LETTER ETA -->
+      <map code="0x3b8" name="cid00282"/><!-- GREEK SMALL LETTER THETA -->
+      <map code="0x3b9" name="cid00283"/><!-- GREEK SMALL LETTER IOTA -->
+      <map code="0x3ba" name="cid00284"/><!-- GREEK SMALL LETTER KAPPA -->
+      <map code="0x3bb" name="cid00285"/><!-- GREEK SMALL LETTER LAMDA -->
+      <map code="0x3bc" name="cid00286"/><!-- GREEK SMALL LETTER MU -->
+      <map code="0x3bd" name="cid00287"/><!-- GREEK SMALL LETTER NU -->
+      <map code="0x3be" name="cid00288"/><!-- GREEK SMALL LETTER XI -->
+      <map code="0x3bf" name="cid00289"/><!-- GREEK SMALL LETTER OMICRON -->
+      <map code="0x3c0" name="cid00290"/><!-- GREEK SMALL LETTER PI -->
+      <map code="0x3c1" name="cid00291"/><!-- GREEK SMALL LETTER RHO -->
+      <map code="0x3c3" name="cid00292"/><!-- GREEK SMALL LETTER SIGMA -->
+      <map code="0x3c4" name="cid00293"/><!-- GREEK SMALL LETTER TAU -->
+      <map code="0x3c5" name="cid00294"/><!-- GREEK SMALL LETTER UPSILON -->
+      <map code="0x3c6" name="cid00295"/><!-- GREEK SMALL LETTER PHI -->
+      <map code="0x3c7" name="cid00296"/><!-- GREEK SMALL LETTER CHI -->
+      <map code="0x3c8" name="cid00297"/><!-- GREEK SMALL LETTER PSI -->
+      <map code="0x3c9" name="cid00298"/><!-- GREEK SMALL LETTER OMEGA -->
+      <map code="0x401" name="cid00299"/><!-- CYRILLIC CAPITAL LETTER IO -->
+      <map code="0x410" name="cid00300"/><!-- CYRILLIC CAPITAL LETTER A -->
+      <map code="0x411" name="cid00301"/><!-- CYRILLIC CAPITAL LETTER BE -->
+      <map code="0x412" name="cid00302"/><!-- CYRILLIC CAPITAL LETTER VE -->
+      <map code="0x413" name="cid00303"/><!-- CYRILLIC CAPITAL LETTER GHE -->
+      <map code="0x414" name="cid00304"/><!-- CYRILLIC CAPITAL LETTER DE -->
+      <map code="0x415" name="cid00305"/><!-- CYRILLIC CAPITAL LETTER IE -->
+      <map code="0x416" name="cid00306"/><!-- CYRILLIC CAPITAL LETTER ZHE -->
+      <map code="0x417" name="cid00307"/><!-- CYRILLIC CAPITAL LETTER ZE -->
+      <map code="0x418" name="cid00308"/><!-- CYRILLIC CAPITAL LETTER I -->
+      <map code="0x419" name="cid00309"/><!-- CYRILLIC CAPITAL LETTER SHORT I -->
+      <map code="0x41a" name="cid00310"/><!-- CYRILLIC CAPITAL LETTER KA -->
+      <map code="0x41b" name="cid00311"/><!-- CYRILLIC CAPITAL LETTER EL -->
+      <map code="0x41c" name="cid00312"/><!-- CYRILLIC CAPITAL LETTER EM -->
+      <map code="0x41d" name="cid00313"/><!-- CYRILLIC CAPITAL LETTER EN -->
+      <map code="0x41e" name="cid00314"/><!-- CYRILLIC CAPITAL LETTER O -->
+      <map code="0x41f" name="cid00315"/><!-- CYRILLIC CAPITAL LETTER PE -->
+      <map code="0x420" name="cid00316"/><!-- CYRILLIC CAPITAL LETTER ER -->
+      <map code="0x421" name="cid00317"/><!-- CYRILLIC CAPITAL LETTER ES -->
+      <map code="0x422" name="cid00318"/><!-- CYRILLIC CAPITAL LETTER TE -->
+      <map code="0x423" name="cid00319"/><!-- CYRILLIC CAPITAL LETTER U -->
+      <map code="0x424" name="cid00320"/><!-- CYRILLIC CAPITAL LETTER EF -->
+      <map code="0x425" name="cid00321"/><!-- CYRILLIC CAPITAL LETTER HA -->
+      <map code="0x426" name="cid00322"/><!-- CYRILLIC CAPITAL LETTER TSE -->
+      <map code="0x427" name="cid00323"/><!-- CYRILLIC CAPITAL LETTER CHE -->
+      <map code="0x428" name="cid00324"/><!-- CYRILLIC CAPITAL LETTER SHA -->
+      <map code="0x429" name="cid00325"/><!-- CYRILLIC CAPITAL LETTER SHCHA -->
+      <map code="0x42a" name="cid00326"/><!-- CYRILLIC CAPITAL LETTER HARD SIGN -->
+      <map code="0x42b" name="cid00327"/><!-- CYRILLIC CAPITAL LETTER YERU -->
+      <map code="0x42c" name="cid00328"/><!-- CYRILLIC CAPITAL LETTER SOFT SIGN -->
+      <map code="0x42d" name="cid00329"/><!-- CYRILLIC CAPITAL LETTER E -->
+      <map code="0x42e" name="cid00330"/><!-- CYRILLIC CAPITAL LETTER YU -->
+      <map code="0x42f" name="cid00331"/><!-- CYRILLIC CAPITAL LETTER YA -->
+      <map code="0x430" name="cid00332"/><!-- CYRILLIC SMALL LETTER A -->
+      <map code="0x431" name="cid00333"/><!-- CYRILLIC SMALL LETTER BE -->
+      <map code="0x432" name="cid00334"/><!-- CYRILLIC SMALL LETTER VE -->
+      <map code="0x433" name="cid00335"/><!-- CYRILLIC SMALL LETTER GHE -->
+      <map code="0x434" name="cid00336"/><!-- CYRILLIC SMALL LETTER DE -->
+      <map code="0x435" name="cid00337"/><!-- CYRILLIC SMALL LETTER IE -->
+      <map code="0x436" name="cid00338"/><!-- CYRILLIC SMALL LETTER ZHE -->
+      <map code="0x437" name="cid00339"/><!-- CYRILLIC SMALL LETTER ZE -->
+      <map code="0x438" name="cid00340"/><!-- CYRILLIC SMALL LETTER I -->
+      <map code="0x439" name="cid00341"/><!-- CYRILLIC SMALL LETTER SHORT I -->
+      <map code="0x43a" name="cid00342"/><!-- CYRILLIC SMALL LETTER KA -->
+      <map code="0x43b" name="cid00343"/><!-- CYRILLIC SMALL LETTER EL -->
+      <map code="0x43c" name="cid00344"/><!-- CYRILLIC SMALL LETTER EM -->
+      <map code="0x43d" name="cid00345"/><!-- CYRILLIC SMALL LETTER EN -->
+      <map code="0x43e" name="cid00346"/><!-- CYRILLIC SMALL LETTER O -->
+      <map code="0x43f" name="cid00347"/><!-- CYRILLIC SMALL LETTER PE -->
+      <map code="0x440" name="cid00348"/><!-- CYRILLIC SMALL LETTER ER -->
+      <map code="0x441" name="cid00349"/><!-- CYRILLIC SMALL LETTER ES -->
+      <map code="0x442" name="cid00350"/><!-- CYRILLIC SMALL LETTER TE -->
+      <map code="0x443" name="cid00351"/><!-- CYRILLIC SMALL LETTER U -->
+      <map code="0x444" name="cid00352"/><!-- CYRILLIC SMALL LETTER EF -->
+      <map code="0x445" name="cid00353"/><!-- CYRILLIC SMALL LETTER HA -->
+      <map code="0x446" name="cid00354"/><!-- CYRILLIC SMALL LETTER TSE -->
+      <map code="0x447" name="cid00355"/><!-- CYRILLIC SMALL LETTER CHE -->
+      <map code="0x448" name="cid00356"/><!-- CYRILLIC SMALL LETTER SHA -->
+      <map code="0x449" name="cid00357"/><!-- CYRILLIC SMALL LETTER SHCHA -->
+      <map code="0x44a" name="cid00358"/><!-- CYRILLIC SMALL LETTER HARD SIGN -->
+      <map code="0x44b" name="cid00359"/><!-- CYRILLIC SMALL LETTER YERU -->
+      <map code="0x44c" name="cid00360"/><!-- CYRILLIC SMALL LETTER SOFT SIGN -->
+      <map code="0x44d" name="cid00361"/><!-- CYRILLIC SMALL LETTER E -->
+      <map code="0x44e" name="cid00362"/><!-- CYRILLIC SMALL LETTER YU -->
+      <map code="0x44f" name="cid00363"/><!-- CYRILLIC SMALL LETTER YA -->
+      <map code="0x451" name="cid00364"/><!-- CYRILLIC SMALL LETTER IO -->
+    </cmap_format_4>
+    <cmap_format_12 platformID="3" platEncID="10" format="12" reserved="0" length="196276" language="0" nGroups="16355">
+      <map code="0x0" name="cid00001"/><!-- ???? -->
+      <map code="0x1" name="cid00001"/><!-- ???? -->
+      <map code="0x2" name="cid00001"/><!-- ???? -->
+      <map code="0x3" name="cid00001"/><!-- ???? -->
+      <map code="0x4" name="cid00001"/><!-- ???? -->
+      <map code="0x5" name="cid00001"/><!-- ???? -->
+      <map code="0x6" name="cid00001"/><!-- ???? -->
+      <map code="0x7" name="cid00001"/><!-- ???? -->
+      <map code="0x8" name="cid00001"/><!-- ???? -->
+      <map code="0x9" name="cid00001"/><!-- ???? -->
+      <map code="0xa" name="cid00001"/><!-- ???? -->
+      <map code="0xb" name="cid00001"/><!-- ???? -->
+      <map code="0xc" name="cid00001"/><!-- ???? -->
+      <map code="0xd" name="cid00001"/><!-- ???? -->
+      <map code="0xe" name="cid00001"/><!-- ???? -->
+      <map code="0xf" name="cid00001"/><!-- ???? -->
+      <map code="0x10" name="cid00001"/><!-- ???? -->
+      <map code="0x11" name="cid00001"/><!-- ???? -->
+      <map code="0x12" name="cid00001"/><!-- ???? -->
+      <map code="0x13" name="cid00001"/><!-- ???? -->
+      <map code="0x14" name="cid00001"/><!-- ???? -->
+      <map code="0x15" name="cid00001"/><!-- ???? -->
+      <map code="0x16" name="cid00001"/><!-- ???? -->
+      <map code="0x17" name="cid00001"/><!-- ???? -->
+      <map code="0x18" name="cid00001"/><!-- ???? -->
+      <map code="0x19" name="cid00001"/><!-- ???? -->
+      <map code="0x1a" name="cid00001"/><!-- ???? -->
+      <map code="0x1b" name="cid00001"/><!-- ???? -->
+      <map code="0x1c" name="cid00001"/><!-- ???? -->
+      <map code="0x1d" name="cid00001"/><!-- ???? -->
+      <map code="0x1e" name="cid00001"/><!-- ???? -->
+      <map code="0x1f" name="cid00001"/><!-- ???? -->
+      <map code="0x20" name="cid00001"/><!-- SPACE -->
+      <map code="0x21" name="cid00002"/><!-- EXCLAMATION MARK -->
+      <map code="0x22" name="cid00003"/><!-- QUOTATION MARK -->
+      <map code="0x23" name="cid00004"/><!-- NUMBER SIGN -->
+      <map code="0x24" name="cid00005"/><!-- DOLLAR SIGN -->
+      <map code="0x25" name="cid00006"/><!-- PERCENT SIGN -->
+      <map code="0x26" name="cid00007"/><!-- AMPERSAND -->
+      <map code="0x27" name="cid00008"/><!-- APOSTROPHE -->
+      <map code="0x28" name="cid00009"/><!-- LEFT PARENTHESIS -->
+      <map code="0x29" name="cid00010"/><!-- RIGHT PARENTHESIS -->
+      <map code="0x2a" name="cid00011"/><!-- ASTERISK -->
+      <map code="0x2b" name="cid00012"/><!-- PLUS SIGN -->
+      <map code="0x2c" name="cid00013"/><!-- COMMA -->
+      <map code="0x2d" name="cid00014"/><!-- HYPHEN-MINUS -->
+      <map code="0x2e" name="cid00015"/><!-- FULL STOP -->
+      <map code="0x2f" name="cid00016"/><!-- SOLIDUS -->
+      <map code="0x30" name="cid00017"/><!-- DIGIT ZERO -->
+      <map code="0x31" name="cid00018"/><!-- DIGIT ONE -->
+      <map code="0x32" name="cid00019"/><!-- DIGIT TWO -->
+      <map code="0x33" name="cid00020"/><!-- DIGIT THREE -->
+      <map code="0x34" name="cid00021"/><!-- DIGIT FOUR -->
+      <map code="0x35" name="cid00022"/><!-- DIGIT FIVE -->
+      <map code="0x36" name="cid00023"/><!-- DIGIT SIX -->
+      <map code="0x37" name="cid00024"/><!-- DIGIT SEVEN -->
+      <map code="0x38" name="cid00025"/><!-- DIGIT EIGHT -->
+      <map code="0x39" name="cid00026"/><!-- DIGIT NINE -->
+      <map code="0x3a" name="cid00027"/><!-- COLON -->
+      <map code="0x3b" name="cid00028"/><!-- SEMICOLON -->
+      <map code="0x3c" name="cid00029"/><!-- LESS-THAN SIGN -->
+      <map code="0x3d" name="cid00030"/><!-- EQUALS SIGN -->
+      <map code="0x3e" name="cid00031"/><!-- GREATER-THAN SIGN -->
+      <map code="0x3f" name="cid00032"/><!-- QUESTION MARK -->
+      <map code="0x40" name="cid00033"/><!-- COMMERCIAL AT -->
+      <map code="0x41" name="cid00034"/><!-- LATIN CAPITAL LETTER A -->
+      <map code="0x42" name="cid00035"/><!-- LATIN CAPITAL LETTER B -->
+      <map code="0x43" name="cid00036"/><!-- LATIN CAPITAL LETTER C -->
+      <map code="0x44" name="cid00037"/><!-- LATIN CAPITAL LETTER D -->
+      <map code="0x45" name="cid00038"/><!-- LATIN CAPITAL LETTER E -->
+      <map code="0x46" name="cid00039"/><!-- LATIN CAPITAL LETTER F -->
+      <map code="0x47" name="cid00040"/><!-- LATIN CAPITAL LETTER G -->
+      <map code="0x48" name="cid00041"/><!-- LATIN CAPITAL LETTER H -->
+      <map code="0x49" name="cid00042"/><!-- LATIN CAPITAL LETTER I -->
+      <map code="0x4a" name="cid00043"/><!-- LATIN CAPITAL LETTER J -->
+      <map code="0x4b" name="cid00044"/><!-- LATIN CAPITAL LETTER K -->
+      <map code="0x4c" name="cid00045"/><!-- LATIN CAPITAL LETTER L -->
+      <map code="0x4d" name="cid00046"/><!-- LATIN CAPITAL LETTER M -->
+      <map code="0x4e" name="cid00047"/><!-- LATIN CAPITAL LETTER N -->
+      <map code="0x4f" name="cid00048"/><!-- LATIN CAPITAL LETTER O -->
+      <map code="0x50" name="cid00049"/><!-- LATIN CAPITAL LETTER P -->
+      <map code="0x51" name="cid00050"/><!-- LATIN CAPITAL LETTER Q -->
+      <map code="0x52" name="cid00051"/><!-- LATIN CAPITAL LETTER R -->
+      <map code="0x53" name="cid00052"/><!-- LATIN CAPITAL LETTER S -->
+      <map code="0x54" name="cid00053"/><!-- LATIN CAPITAL LETTER T -->
+      <map code="0x55" name="cid00054"/><!-- LATIN CAPITAL LETTER U -->
+      <map code="0x56" name="cid00055"/><!-- LATIN CAPITAL LETTER V -->
+      <map code="0x57" name="cid00056"/><!-- LATIN CAPITAL LETTER W -->
+      <map code="0x58" name="cid00057"/><!-- LATIN CAPITAL LETTER X -->
+      <map code="0x59" name="cid00058"/><!-- LATIN CAPITAL LETTER Y -->
+      <map code="0x5a" name="cid00059"/><!-- LATIN CAPITAL LETTER Z -->
+      <map code="0x5b" name="cid00060"/><!-- LEFT SQUARE BRACKET -->
+      <map code="0x5c" name="cid00061"/><!-- REVERSE SOLIDUS -->
+      <map code="0x5d" name="cid00062"/><!-- RIGHT SQUARE BRACKET -->
+      <map code="0x5e" name="cid00063"/><!-- CIRCUMFLEX ACCENT -->
+      <map code="0x5f" name="cid00064"/><!-- LOW LINE -->
+      <map code="0x60" name="cid00065"/><!-- GRAVE ACCENT -->
+      <map code="0x61" name="cid00066"/><!-- LATIN SMALL LETTER A -->
+      <map code="0x62" name="cid00067"/><!-- LATIN SMALL LETTER B -->
+      <map code="0x63" name="cid00068"/><!-- LATIN SMALL LETTER C -->
+      <map code="0x64" name="cid00069"/><!-- LATIN SMALL LETTER D -->
+      <map code="0x65" name="cid00070"/><!-- LATIN SMALL LETTER E -->
+      <map code="0x66" name="cid00071"/><!-- LATIN SMALL LETTER F -->
+      <map code="0x67" name="cid00072"/><!-- LATIN SMALL LETTER G -->
+      <map code="0x68" name="cid00073"/><!-- LATIN SMALL LETTER H -->
+      <map code="0x69" name="cid00074"/><!-- LATIN SMALL LETTER I -->
+      <map code="0x6a" name="cid00075"/><!-- LATIN SMALL LETTER J -->
+      <map code="0x6b" name="cid00076"/><!-- LATIN SMALL LETTER K -->
+      <map code="0x6c" name="cid00077"/><!-- LATIN SMALL LETTER L -->
+      <map code="0x6d" name="cid00078"/><!-- LATIN SMALL LETTER M -->
+      <map code="0x6e" name="cid00079"/><!-- LATIN SMALL LETTER N -->
+      <map code="0x6f" name="cid00080"/><!-- LATIN SMALL LETTER O -->
+      <map code="0x70" name="cid00081"/><!-- LATIN SMALL LETTER P -->
+      <map code="0x71" name="cid00082"/><!-- LATIN SMALL LETTER Q -->
+      <map code="0x72" name="cid00083"/><!-- LATIN SMALL LETTER R -->
+      <map code="0x73" name="cid00084"/><!-- LATIN SMALL LETTER S -->
+      <map code="0x74" name="cid00085"/><!-- LATIN SMALL LETTER T -->
+      <map code="0x75" name="cid00086"/><!-- LATIN SMALL LETTER U -->
+      <map code="0x76" name="cid00087"/><!-- LATIN SMALL LETTER V -->
+      <map code="0x77" name="cid00088"/><!-- LATIN SMALL LETTER W -->
+      <map code="0x78" name="cid00089"/><!-- LATIN SMALL LETTER X -->
+      <map code="0x79" name="cid00090"/><!-- LATIN SMALL LETTER Y -->
+      <map code="0x7a" name="cid00091"/><!-- LATIN SMALL LETTER Z -->
+      <map code="0x7b" name="cid00092"/><!-- LEFT CURLY BRACKET -->
+      <map code="0x7c" name="cid00093"/><!-- VERTICAL LINE -->
+      <map code="0x7d" name="cid00094"/><!-- RIGHT CURLY BRACKET -->
+      <map code="0x7e" name="cid00095"/><!-- TILDE -->
+      <map code="0xa0" name="cid00001"/><!-- NO-BREAK SPACE -->
+      <map code="0xa1" name="cid00096"/><!-- INVERTED EXCLAMATION MARK -->
+      <map code="0xa2" name="cid00097"/><!-- CENT SIGN -->
+      <map code="0xa3" name="cid00098"/><!-- POUND SIGN -->
+      <map code="0xa4" name="cid00099"/><!-- CURRENCY SIGN -->
+      <map code="0xa5" name="cid00100"/><!-- YEN SIGN -->
+      <map code="0xa6" name="cid00101"/><!-- BROKEN BAR -->
+      <map code="0xa7" name="cid00102"/><!-- SECTION SIGN -->
+      <map code="0xa8" name="cid00103"/><!-- DIAERESIS -->
+      <map code="0xa9" name="cid00104"/><!-- COPYRIGHT SIGN -->
+      <map code="0xaa" name="cid00105"/><!-- FEMININE ORDINAL INDICATOR -->
+      <map code="0xab" name="cid00106"/><!-- LEFT-POINTING DOUBLE ANGLE QUOTATION MARK -->
+      <map code="0xac" name="cid00107"/><!-- NOT SIGN -->
+      <map code="0xad" name="cid00108"/><!-- SOFT HYPHEN -->
+      <map code="0xae" name="cid00109"/><!-- REGISTERED SIGN -->
+      <map code="0xaf" name="cid00110"/><!-- MACRON -->
+      <map code="0xb0" name="cid00111"/><!-- DEGREE SIGN -->
+      <map code="0xb1" name="cid00112"/><!-- PLUS-MINUS SIGN -->
+      <map code="0xb2" name="cid00113"/><!-- SUPERSCRIPT TWO -->
+      <map code="0xb3" name="cid00114"/><!-- SUPERSCRIPT THREE -->
+      <map code="0xb4" name="cid00115"/><!-- ACUTE ACCENT -->
+      <map code="0xb5" name="cid00116"/><!-- MICRO SIGN -->
+      <map code="0xb6" name="cid00117"/><!-- PILCROW SIGN -->
+      <map code="0xb7" name="cid00118"/><!-- MIDDLE DOT -->
+      <map code="0xb8" name="cid00119"/><!-- CEDILLA -->
+      <map code="0xb9" name="cid00120"/><!-- SUPERSCRIPT ONE -->
+      <map code="0xba" name="cid00121"/><!-- MASCULINE ORDINAL INDICATOR -->
+      <map code="0xbb" name="cid00122"/><!-- RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK -->
+      <map code="0xbc" name="cid00123"/><!-- VULGAR FRACTION ONE QUARTER -->
+      <map code="0xbd" name="cid00124"/><!-- VULGAR FRACTION ONE HALF -->
+      <map code="0xbe" name="cid00125"/><!-- VULGAR FRACTION THREE QUARTERS -->
+      <map code="0xbf" name="cid00126"/><!-- INVERTED QUESTION MARK -->
+      <map code="0xc0" name="cid00127"/><!-- LATIN CAPITAL LETTER A WITH GRAVE -->
+      <map code="0xc1" name="cid00128"/><!-- LATIN CAPITAL LETTER A WITH ACUTE -->
+      <map code="0xc2" name="cid00129"/><!-- LATIN CAPITAL LETTER A WITH CIRCUMFLEX -->
+      <map code="0xc3" name="cid00130"/><!-- LATIN CAPITAL LETTER A WITH TILDE -->
+      <map code="0xc4" name="cid00131"/><!-- LATIN CAPITAL LETTER A WITH DIAERESIS -->
+      <map code="0xc5" name="cid00132"/><!-- LATIN CAPITAL LETTER A WITH RING ABOVE -->
+      <map code="0xc6" name="cid00133"/><!-- LATIN CAPITAL LETTER AE -->
+      <map code="0xc7" name="cid00134"/><!-- LATIN CAPITAL LETTER C WITH CEDILLA -->
+      <map code="0xc8" name="cid00135"/><!-- LATIN CAPITAL LETTER E WITH GRAVE -->
+      <map code="0xc9" name="cid00136"/><!-- LATIN CAPITAL LETTER E WITH ACUTE -->
+      <map code="0xca" name="cid00137"/><!-- LATIN CAPITAL LETTER E WITH CIRCUMFLEX -->
+      <map code="0xcb" name="cid00138"/><!-- LATIN CAPITAL LETTER E WITH DIAERESIS -->
+      <map code="0xcc" name="cid00139"/><!-- LATIN CAPITAL LETTER I WITH GRAVE -->
+      <map code="0xcd" name="cid00140"/><!-- LATIN CAPITAL LETTER I WITH ACUTE -->
+      <map code="0xce" name="cid00141"/><!-- LATIN CAPITAL LETTER I WITH CIRCUMFLEX -->
+      <map code="0xcf" name="cid00142"/><!-- LATIN CAPITAL LETTER I WITH DIAERESIS -->
+      <map code="0xd0" name="cid00143"/><!-- LATIN CAPITAL LETTER ETH -->
+      <map code="0xd1" name="cid00144"/><!-- LATIN CAPITAL LETTER N WITH TILDE -->
+      <map code="0xd2" name="cid00145"/><!-- LATIN CAPITAL LETTER O WITH GRAVE -->
+      <map code="0xd3" name="cid00146"/><!-- LATIN CAPITAL LETTER O WITH ACUTE -->
+      <map code="0xd4" name="cid00147"/><!-- LATIN CAPITAL LETTER O WITH CIRCUMFLEX -->
+      <map code="0xd5" name="cid00148"/><!-- LATIN CAPITAL LETTER O WITH TILDE -->
+      <map code="0xd6" name="cid00149"/><!-- LATIN CAPITAL LETTER O WITH DIAERESIS -->
+      <map code="0xd7" name="cid00150"/><!-- MULTIPLICATION SIGN -->
+      <map code="0xd8" name="cid00151"/><!-- LATIN CAPITAL LETTER O WITH STROKE -->
+      <map code="0xd9" name="cid00152"/><!-- LATIN CAPITAL LETTER U WITH GRAVE -->
+      <map code="0xda" name="cid00153"/><!-- LATIN CAPITAL LETTER U WITH ACUTE -->
+      <map code="0xdb" name="cid00154"/><!-- LATIN CAPITAL LETTER U WITH CIRCUMFLEX -->
+      <map code="0xdc" name="cid00155"/><!-- LATIN CAPITAL LETTER U WITH DIAERESIS -->
+      <map code="0xdd" name="cid00156"/><!-- LATIN CAPITAL LETTER Y WITH ACUTE -->
+      <map code="0xde" name="cid00157"/><!-- LATIN CAPITAL LETTER THORN -->
+      <map code="0xdf" name="cid00158"/><!-- LATIN SMALL LETTER SHARP S -->
+      <map code="0xe0" name="cid00159"/><!-- LATIN SMALL LETTER A WITH GRAVE -->
+      <map code="0xe1" name="cid00160"/><!-- LATIN SMALL LETTER A WITH ACUTE -->
+      <map code="0xe2" name="cid00161"/><!-- LATIN SMALL LETTER A WITH CIRCUMFLEX -->
+      <map code="0xe3" name="cid00162"/><!-- LATIN SMALL LETTER A WITH TILDE -->
+      <map code="0xe4" name="cid00163"/><!-- LATIN SMALL LETTER A WITH DIAERESIS -->
+      <map code="0xe5" name="cid00164"/><!-- LATIN SMALL LETTER A WITH RING ABOVE -->
+      <map code="0xe6" name="cid00165"/><!-- LATIN SMALL LETTER AE -->
+      <map code="0xe7" name="cid00166"/><!-- LATIN SMALL LETTER C WITH CEDILLA -->
+      <map code="0xe8" name="cid00167"/><!-- LATIN SMALL LETTER E WITH GRAVE -->
+      <map code="0xe9" name="cid00168"/><!-- LATIN SMALL LETTER E WITH ACUTE -->
+      <map code="0xea" name="cid00169"/><!-- LATIN SMALL LETTER E WITH CIRCUMFLEX -->
+      <map code="0xeb" name="cid00170"/><!-- LATIN SMALL LETTER E WITH DIAERESIS -->
+      <map code="0xec" name="cid00171"/><!-- LATIN SMALL LETTER I WITH GRAVE -->
+      <map code="0xed" name="cid00172"/><!-- LATIN SMALL LETTER I WITH ACUTE -->
+      <map code="0xee" name="cid00173"/><!-- LATIN SMALL LETTER I WITH CIRCUMFLEX -->
+      <map code="0xef" name="cid00174"/><!-- LATIN SMALL LETTER I WITH DIAERESIS -->
+      <map code="0xf0" name="cid00175"/><!-- LATIN SMALL LETTER ETH -->
+      <map code="0xf1" name="cid00176"/><!-- LATIN SMALL LETTER N WITH TILDE -->
+      <map code="0xf2" name="cid00177"/><!-- LATIN SMALL LETTER O WITH GRAVE -->
+      <map code="0xf3" name="cid00178"/><!-- LATIN SMALL LETTER O WITH ACUTE -->
+      <map code="0xf4" name="cid00179"/><!-- LATIN SMALL LETTER O WITH CIRCUMFLEX -->
+      <map code="0xf5" name="cid00180"/><!-- LATIN SMALL LETTER O WITH TILDE -->
+      <map code="0xf6" name="cid00181"/><!-- LATIN SMALL LETTER O WITH DIAERESIS -->
+      <map code="0xf7" name="cid00182"/><!-- DIVISION SIGN -->
+      <map code="0xf8" name="cid00183"/><!-- LATIN SMALL LETTER O WITH STROKE -->
+      <map code="0xf9" name="cid00184"/><!-- LATIN SMALL LETTER U WITH GRAVE -->
+      <map code="0xfa" name="cid00185"/><!-- LATIN SMALL LETTER U WITH ACUTE -->
+      <map code="0xfb" name="cid00186"/><!-- LATIN SMALL LETTER U WITH CIRCUMFLEX -->
+      <map code="0xfc" name="cid00187"/><!-- LATIN SMALL LETTER U WITH DIAERESIS -->
+      <map code="0xfd" name="cid00188"/><!-- LATIN SMALL LETTER Y WITH ACUTE -->
+      <map code="0xfe" name="cid00189"/><!-- LATIN SMALL LETTER THORN -->
+      <map code="0xff" name="cid00190"/><!-- LATIN SMALL LETTER Y WITH DIAERESIS -->
+      <map code="0x100" name="cid00191"/><!-- LATIN CAPITAL LETTER A WITH MACRON -->
+      <map code="0x101" name="cid00192"/><!-- LATIN SMALL LETTER A WITH MACRON -->
+      <map code="0x102" name="cid00193"/><!-- LATIN CAPITAL LETTER A WITH BREVE -->
+      <map code="0x103" name="cid00194"/><!-- LATIN SMALL LETTER A WITH BREVE -->
+      <map code="0x110" name="cid00195"/><!-- LATIN CAPITAL LETTER D WITH STROKE -->
+      <map code="0x111" name="cid00196"/><!-- LATIN SMALL LETTER D WITH STROKE -->
+      <map code="0x112" name="cid00197"/><!-- LATIN CAPITAL LETTER E WITH MACRON -->
+      <map code="0x113" name="cid00198"/><!-- LATIN SMALL LETTER E WITH MACRON -->
+      <map code="0x11a" name="cid00199"/><!-- LATIN CAPITAL LETTER E WITH CARON -->
+      <map code="0x11b" name="cid00200"/><!-- LATIN SMALL LETTER E WITH CARON -->
+      <map code="0x128" name="cid00201"/><!-- LATIN CAPITAL LETTER I WITH TILDE -->
+      <map code="0x129" name="cid00202"/><!-- LATIN SMALL LETTER I WITH TILDE -->
+      <map code="0x12a" name="cid00203"/><!-- LATIN CAPITAL LETTER I WITH MACRON -->
+      <map code="0x12b" name="cid00204"/><!-- LATIN SMALL LETTER I WITH MACRON -->
+      <map code="0x143" name="cid00205"/><!-- LATIN CAPITAL LETTER N WITH ACUTE -->
+      <map code="0x144" name="cid00206"/><!-- LATIN SMALL LETTER N WITH ACUTE -->
+      <map code="0x147" name="cid00207"/><!-- LATIN CAPITAL LETTER N WITH CARON -->
+      <map code="0x148" name="cid00208"/><!-- LATIN SMALL LETTER N WITH CARON -->
+      <map code="0x14c" name="cid00209"/><!-- LATIN CAPITAL LETTER O WITH MACRON -->
+      <map code="0x14d" name="cid00210"/><!-- LATIN SMALL LETTER O WITH MACRON -->
+      <map code="0x14e" name="cid00211"/><!-- LATIN CAPITAL LETTER O WITH BREVE -->
+      <map code="0x14f" name="cid00212"/><!-- LATIN SMALL LETTER O WITH BREVE -->
+      <map code="0x152" name="cid00213"/><!-- LATIN CAPITAL LIGATURE OE -->
+      <map code="0x153" name="cid00214"/><!-- LATIN SMALL LIGATURE OE -->
+      <map code="0x168" name="cid00215"/><!-- LATIN CAPITAL LETTER U WITH TILDE -->
+      <map code="0x169" name="cid00216"/><!-- LATIN SMALL LETTER U WITH TILDE -->
+      <map code="0x16a" name="cid00217"/><!-- LATIN CAPITAL LETTER U WITH MACRON -->
+      <map code="0x16b" name="cid00218"/><!-- LATIN SMALL LETTER U WITH MACRON -->
+      <map code="0x16c" name="cid00219"/><!-- LATIN CAPITAL LETTER U WITH BREVE -->
+      <map code="0x16d" name="cid00220"/><!-- LATIN SMALL LETTER U WITH BREVE -->
+      <map code="0x192" name="cid00221"/><!-- LATIN SMALL LETTER F WITH HOOK -->
+      <map code="0x1a0" name="cid00222"/><!-- LATIN CAPITAL LETTER O WITH HORN -->
+      <map code="0x1a1" name="cid00223"/><!-- LATIN SMALL LETTER O WITH HORN -->
+      <map code="0x1af" name="cid00224"/><!-- LATIN CAPITAL LETTER U WITH HORN -->
+      <map code="0x1b0" name="cid00225"/><!-- LATIN SMALL LETTER U WITH HORN -->
+      <map code="0x1cd" name="cid00226"/><!-- LATIN CAPITAL LETTER A WITH CARON -->
+      <map code="0x1ce" name="cid00227"/><!-- LATIN SMALL LETTER A WITH CARON -->
+      <map code="0x1cf" name="cid00228"/><!-- LATIN CAPITAL LETTER I WITH CARON -->
+      <map code="0x1d0" name="cid00229"/><!-- LATIN SMALL LETTER I WITH CARON -->
+      <map code="0x1d1" name="cid00230"/><!-- LATIN CAPITAL LETTER O WITH CARON -->
+      <map code="0x1d2" name="cid00231"/><!-- LATIN SMALL LETTER O WITH CARON -->
+      <map code="0x1d3" name="cid00232"/><!-- LATIN CAPITAL LETTER U WITH CARON -->
+      <map code="0x1d4" name="cid00233"/><!-- LATIN SMALL LETTER U WITH CARON -->
+      <map code="0x1d5" name="cid00234"/><!-- LATIN CAPITAL LETTER U WITH DIAERESIS AND MACRON -->
+      <map code="0x1d6" name="cid00235"/><!-- LATIN SMALL LETTER U WITH DIAERESIS AND MACRON -->
+      <map code="0x1d7" name="cid00236"/><!-- LATIN CAPITAL LETTER U WITH DIAERESIS AND ACUTE -->
+      <map code="0x1d8" name="cid00237"/><!-- LATIN SMALL LETTER U WITH DIAERESIS AND ACUTE -->
+      <map code="0x1d9" name="cid00238"/><!-- LATIN CAPITAL LETTER U WITH DIAERESIS AND CARON -->
+      <map code="0x1da" name="cid00239"/><!-- LATIN SMALL LETTER U WITH DIAERESIS AND CARON -->
+      <map code="0x1db" name="cid00240"/><!-- LATIN CAPITAL LETTER U WITH DIAERESIS AND GRAVE -->
+      <map code="0x1dc" name="cid00241"/><!-- LATIN SMALL LETTER U WITH DIAERESIS AND GRAVE -->
+      <map code="0x1f8" name="cid00242"/><!-- LATIN CAPITAL LETTER N WITH GRAVE -->
+      <map code="0x1f9" name="cid00243"/><!-- LATIN SMALL LETTER N WITH GRAVE -->
+      <map code="0x251" name="cid00244"/><!-- LATIN SMALL LETTER ALPHA -->
+      <map code="0x261" name="cid00245"/><!-- LATIN SMALL LETTER SCRIPT G -->
+      <map code="0x2c7" name="cid00246"/><!-- CARON -->
+      <map code="0x2c9" name="cid00247"/><!-- MODIFIER LETTER MACRON -->
+      <map code="0x2ca" name="cid00248"/><!-- MODIFIER LETTER ACUTE ACCENT -->
+      <map code="0x2cb" name="cid00249"/><!-- MODIFIER LETTER GRAVE ACCENT -->
+      <map code="0x2d9" name="cid00250"/><!-- DOT ABOVE -->
+      <map code="0x391" name="cid00251"/><!-- GREEK CAPITAL LETTER ALPHA -->
+      <map code="0x392" name="cid00252"/><!-- GREEK CAPITAL LETTER BETA -->
+      <map code="0x393" name="cid00253"/><!-- GREEK CAPITAL LETTER GAMMA -->
+      <map code="0x394" name="cid00254"/><!-- GREEK CAPITAL LETTER DELTA -->
+      <map code="0x395" name="cid00255"/><!-- GREEK CAPITAL LETTER EPSILON -->
+      <map code="0x396" name="cid00256"/><!-- GREEK CAPITAL LETTER ZETA -->
+      <map code="0x397" name="cid00257"/><!-- GREEK CAPITAL LETTER ETA -->
+      <map code="0x398" name="cid00258"/><!-- GREEK CAPITAL LETTER THETA -->
+      <map code="0x399" name="cid00259"/><!-- GREEK CAPITAL LETTER IOTA -->
+      <map code="0x39a" name="cid00260"/><!-- GREEK CAPITAL LETTER KAPPA -->
+      <map code="0x39b" name="cid00261"/><!-- GREEK CAPITAL LETTER LAMDA -->
+      <map code="0x39c" name="cid00262"/><!-- GREEK CAPITAL LETTER MU -->
+      <map code="0x39d" name="cid00263"/><!-- GREEK CAPITAL LETTER NU -->
+      <map code="0x39e" name="cid00264"/><!-- GREEK CAPITAL LETTER XI -->
+      <map code="0x39f" name="cid00265"/><!-- GREEK CAPITAL LETTER OMICRON -->
+      <map code="0x3a0" name="cid00266"/><!-- GREEK CAPITAL LETTER PI -->
+      <map code="0x3a1" name="cid00267"/><!-- GREEK CAPITAL LETTER RHO -->
+      <map code="0x3a3" name="cid00268"/><!-- GREEK CAPITAL LETTER SIGMA -->
+      <map code="0x3a4" name="cid00269"/><!-- GREEK CAPITAL LETTER TAU -->
+      <map code="0x3a5" name="cid00270"/><!-- GREEK CAPITAL LETTER UPSILON -->
+      <map code="0x3a6" name="cid00271"/><!-- GREEK CAPITAL LETTER PHI -->
+      <map code="0x3a7" name="cid00272"/><!-- GREEK CAPITAL LETTER CHI -->
+      <map code="0x3a8" name="cid00273"/><!-- GREEK CAPITAL LETTER PSI -->
+      <map code="0x3a9" name="cid00274"/><!-- GREEK CAPITAL LETTER OMEGA -->
+      <map code="0x3b1" name="cid00275"/><!-- GREEK SMALL LETTER ALPHA -->
+      <map code="0x3b2" name="cid00276"/><!-- GREEK SMALL LETTER BETA -->
+      <map code="0x3b3" name="cid00277"/><!-- GREEK SMALL LETTER GAMMA -->
+      <map code="0x3b4" name="cid00278"/><!-- GREEK SMALL LETTER DELTA -->
+      <map code="0x3b5" name="cid00279"/><!-- GREEK SMALL LETTER EPSILON -->
+      <map code="0x3b6" name="cid00280"/><!-- GREEK SMALL LETTER ZETA -->
+      <map code="0x3b7" name="cid00281"/><!-- GREEK SMALL LETTER ETA -->
+      <map code="0x3b8" name="cid00282"/><!-- GREEK SMALL LETTER THETA -->
+      <map code="0x3b9" name="cid00283"/><!-- GREEK SMALL LETTER IOTA -->
+      <map code="0x3ba" name="cid00284"/><!-- GREEK SMALL LETTER KAPPA -->
+      <map code="0x3bb" name="cid00285"/><!-- GREEK SMALL LETTER LAMDA -->
+      <map code="0x3bc" name="cid00286"/><!-- GREEK SMALL LETTER MU -->
+      <map code="0x3bd" name="cid00287"/><!-- GREEK SMALL LETTER NU -->
+      <map code="0x3be" name="cid00288"/><!-- GREEK SMALL LETTER XI -->
+      <map code="0x3bf" name="cid00289"/><!-- GREEK SMALL LETTER OMICRON -->
+      <map code="0x3c0" name="cid00290"/><!-- GREEK SMALL LETTER PI -->
+      <map code="0x3c1" name="cid00291"/><!-- GREEK SMALL LETTER RHO -->
+      <map code="0x3c3" name="cid00292"/><!-- GREEK SMALL LETTER SIGMA -->
+      <map code="0x3c4" name="cid00293"/><!-- GREEK SMALL LETTER TAU -->
+      <map code="0x3c5" name="cid00294"/><!-- GREEK SMALL LETTER UPSILON -->
+      <map code="0x3c6" name="cid00295"/><!-- GREEK SMALL LETTER PHI -->
+      <map code="0x3c7" name="cid00296"/><!-- GREEK SMALL LETTER CHI -->
+      <map code="0x3c8" name="cid00297"/><!-- GREEK SMALL LETTER PSI -->
+      <map code="0x3c9" name="cid00298"/><!-- GREEK SMALL LETTER OMEGA -->
+      <map code="0x401" name="cid00299"/><!-- CYRILLIC CAPITAL LETTER IO -->
+      <map code="0x410" name="cid00300"/><!-- CYRILLIC CAPITAL LETTER A -->
+      <map code="0x411" name="cid00301"/><!-- CYRILLIC CAPITAL LETTER BE -->
+      <map code="0x412" name="cid00302"/><!-- CYRILLIC CAPITAL LETTER VE -->
+      <map code="0x413" name="cid00303"/><!-- CYRILLIC CAPITAL LETTER GHE -->
+      <map code="0x414" name="cid00304"/><!-- CYRILLIC CAPITAL LETTER DE -->
+      <map code="0x415" name="cid00305"/><!-- CYRILLIC CAPITAL LETTER IE -->
+      <map code="0x416" name="cid00306"/><!-- CYRILLIC CAPITAL LETTER ZHE -->
+      <map code="0x417" name="cid00307"/><!-- CYRILLIC CAPITAL LETTER ZE -->
+      <map code="0x418" name="cid00308"/><!-- CYRILLIC CAPITAL LETTER I -->
+      <map code="0x419" name="cid00309"/><!-- CYRILLIC CAPITAL LETTER SHORT I -->
+      <map code="0x41a" name="cid00310"/><!-- CYRILLIC CAPITAL LETTER KA -->
+      <map code="0x41b" name="cid00311"/><!-- CYRILLIC CAPITAL LETTER EL -->
+      <map code="0x41c" name="cid00312"/><!-- CYRILLIC CAPITAL LETTER EM -->
+      <map code="0x41d" name="cid00313"/><!-- CYRILLIC CAPITAL LETTER EN -->
+      <map code="0x41e" name="cid00314"/><!-- CYRILLIC CAPITAL LETTER O -->
+      <map code="0x41f" name="cid00315"/><!-- CYRILLIC CAPITAL LETTER PE -->
+      <map code="0x420" name="cid00316"/><!-- CYRILLIC CAPITAL LETTER ER -->
+      <map code="0x421" name="cid00317"/><!-- CYRILLIC CAPITAL LETTER ES -->
+      <map code="0x422" name="cid00318"/><!-- CYRILLIC CAPITAL LETTER TE -->
+      <map code="0x423" name="cid00319"/><!-- CYRILLIC CAPITAL LETTER U -->
+      <map code="0x424" name="cid00320"/><!-- CYRILLIC CAPITAL LETTER EF -->
+      <map code="0x425" name="cid00321"/><!-- CYRILLIC CAPITAL LETTER HA -->
+      <map code="0x426" name="cid00322"/><!-- CYRILLIC CAPITAL LETTER TSE -->
+      <map code="0x427" name="cid00323"/><!-- CYRILLIC CAPITAL LETTER CHE -->
+      <map code="0x428" name="cid00324"/><!-- CYRILLIC CAPITAL LETTER SHA -->
+      <map code="0x429" name="cid00325"/><!-- CYRILLIC CAPITAL LETTER SHCHA -->
+      <map code="0x42a" name="cid00326"/><!-- CYRILLIC CAPITAL LETTER HARD SIGN -->
+      <map code="0x42b" name="cid00327"/><!-- CYRILLIC CAPITAL LETTER YERU -->
+      <map code="0x42c" name="cid00328"/><!-- CYRILLIC CAPITAL LETTER SOFT SIGN -->
+      <map code="0x42d" name="cid00329"/><!-- CYRILLIC CAPITAL LETTER E -->
+      <map code="0x42e" name="cid00330"/><!-- CYRILLIC CAPITAL LETTER YU -->
+      <map code="0x42f" name="cid00331"/><!-- CYRILLIC CAPITAL LETTER YA -->
+      <map code="0x430" name="cid00332"/><!-- CYRILLIC SMALL LETTER A -->
+      <map code="0x431" name="cid00333"/><!-- CYRILLIC SMALL LETTER BE -->
+      <map code="0x432" name="cid00334"/><!-- CYRILLIC SMALL LETTER VE -->
+      <map code="0x433" name="cid00335"/><!-- CYRILLIC SMALL LETTER GHE -->
+      <map code="0x434" name="cid00336"/><!-- CYRILLIC SMALL LETTER DE -->
+      <map code="0x435" name="cid00337"/><!-- CYRILLIC SMALL LETTER IE -->
+      <map code="0x436" name="cid00338"/><!-- CYRILLIC SMALL LETTER ZHE -->
+      <map code="0x437" name="cid00339"/><!-- CYRILLIC SMALL LETTER ZE -->
+      <map code="0x438" name="cid00340"/><!-- CYRILLIC SMALL LETTER I -->
+      <map code="0x439" name="cid00341"/><!-- CYRILLIC SMALL LETTER SHORT I -->
+      <map code="0x43a" name="cid00342"/><!-- CYRILLIC SMALL LETTER KA -->
+      <map code="0x43b" name="cid00343"/><!-- CYRILLIC SMALL LETTER EL -->
+      <map code="0x43c" name="cid00344"/><!-- CYRILLIC SMALL LETTER EM -->
+      <map code="0x43d" name="cid00345"/><!-- CYRILLIC SMALL LETTER EN -->
+      <map code="0x43e" name="cid00346"/><!-- CYRILLIC SMALL LETTER O -->
+      <map code="0x43f" name="cid00347"/><!-- CYRILLIC SMALL LETTER PE -->
+      <map code="0x440" name="cid00348"/><!-- CYRILLIC SMALL LETTER ER -->
+      <map code="0x441" name="cid00349"/><!-- CYRILLIC SMALL LETTER ES -->
+      <map code="0x442" name="cid00350"/><!-- CYRILLIC SMALL LETTER TE -->
+      <map code="0x443" name="cid00351"/><!-- CYRILLIC SMALL LETTER U -->
+      <map code="0x444" name="cid00352"/><!-- CYRILLIC SMALL LETTER EF -->
+      <map code="0x445" name="cid00353"/><!-- CYRILLIC SMALL LETTER HA -->
+      <map code="0x446" name="cid00354"/><!-- CYRILLIC SMALL LETTER TSE -->
+      <map code="0x447" name="cid00355"/><!-- CYRILLIC SMALL LETTER CHE -->
+      <map code="0x448" name="cid00356"/><!-- CYRILLIC SMALL LETTER SHA -->
+      <map code="0x449" name="cid00357"/><!-- CYRILLIC SMALL LETTER SHCHA -->
+      <map code="0x44a" name="cid00358"/><!-- CYRILLIC SMALL LETTER HARD SIGN -->
+      <map code="0x44b" name="cid00359"/><!-- CYRILLIC SMALL LETTER YERU -->
+      <map code="0x44c" name="cid00360"/><!-- CYRILLIC SMALL LETTER SOFT SIGN -->
+      <map code="0x44d" name="cid00361"/><!-- CYRILLIC SMALL LETTER E -->
+      <map code="0x44e" name="cid00362"/><!-- CYRILLIC SMALL LETTER YU -->
+      <map code="0x44f" name="cid00363"/><!-- CYRILLIC SMALL LETTER YA -->
+      <map code="0x451" name="cid00364"/><!-- CYRILLIC SMALL LETTER IO -->
+    </cmap_format_12>
+  </cmap>
+
+</ttFont>
